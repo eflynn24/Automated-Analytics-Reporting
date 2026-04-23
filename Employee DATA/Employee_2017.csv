@@ -1,477 +1,477 @@
-﻿Name,Job.Title.2017,"Cal.
+﻿Job.Title.2017,"Cal.
 Code",Name,Position,Effective.2017,Schd.,Grd.,Step,FTE,Pay.2017,Adjusted.2017,Prorated,Hrs/Dy
-"Avedisian, Linda M.",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",54688,54688,7.25
-"Cornwell, William",Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,18,1,"39,443.00",39963,39963,8
-"Smith Jr., Robert G.",Stock Clerk,SS,7/1/2016-EndOfYear,26PY,12M,CSA,OFF,19,1,"42,179.00",42699,42699,8
-"Record, David W.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,16,0.9,"29,653.00",26687.7,26687.7,6.67
-"Green, Tracy A.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
-"Eckdahl, Kelli",e-Learning Director,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"96,063.00",96063,96063,8
-"Owen, Lita A.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,18,1,"30,783.00",31116.5,31116.5,6.67
-"Ginsberg, Jeffrey",Wide  Area Network Manager,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"115,995.00",115995,115995,8
-"Adams, Dawn",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,22,0.75,"23,465.00",17898.75,17898.75,8
-"Rittenhouse, Dawn M.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",64894,64894,7.25
-"Raes, Suzanne M.",Financial  & Operation System Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"55,105.00",55105,55105,8
-"Valliere, Shane M.",Instructor Physical Education,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,016,1,"48,173.00",50945,50945,7.25
-"Cardinale, Mona S.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,94,1,"71,579.00",74616,74616,7.25
-"Tiffany, Jeremy D.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",49261,49261,7.25
-"Comella, Elise B.",Principal Spec Ed,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"86,994.00",86994,86994,8
-"Saltzer, Ann M.",Stenographer,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,31,0.8,"50,369.00",40711.2,40711.2,8
-"Dimon, Barb",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,27,0.75,"26,814.00",20410.5,20410.5,8
-"Kaper, Tracy M.",Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,22,1,"33,500.00",33833.5,33833.5,6.67
-"Buck, James A.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,01,1,"61,794.00",63684,63684,7.25
-"DeCocq, Linda",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,29,1,"37,344.00",37677.5,37677.5,6.67
-"Owens, Amy L.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
-"Ross, Stephanie B.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,31,0.75,"29,492.00",22419,22419,8
-"Hullings, Tina",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"65,642.00",65642,65642,7.25
-"Gavette, Randy L.",Building Maintenance Assistant,SS,7/1/2016-EndOfYear,26PY,12M,BMA,OFF,27,1,"42,209.00",42729,42729,8
-"Gorton, Richard J.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
-"Brockhuizen, Lisa",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"80,278.00",80278,80278,7.25
-"Hunter-Harrington, Vicki S.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
-"Elliott, David J.",Sr Network Analyst,SS,7/1/2016-EndOfYear,26PY,12M,SNET,OFF,22,1,"96,013.00",96533,96533,8
-"Buchiere, Thomas P.",Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,96,1,"68,507.00",71040,71040,7.25
-"Karns, Michael J.",Instructor Physical Education,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,011,1,"51,997.00",55097,55097,7.25
-"Lipp, Lisa A.",Teacher Assistant Voc,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,15,0.9,"29,116.00",26204.4,26204.4,6.67
-"Jensen, Teresa",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,18,1,"30,783.00",31116.5,31116.5,6.67
-"Pryor, Yvonne M.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,27,1,"49,766.00",53399,53399,8
-"Yeoman II, Richard L.",Coordinator of Data Services,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"78,654.00",78654,78654,8
-"Sacheli, Allison",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"61,461.00",61461,61461,7.25
-"Brosius, Daniel W.",Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,22,1,"42,682.00",43202,43202,8
-"Cook, Donald A.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,24,1,"36,825.00",37345,37345,8
-"East, Beverly A.",School Aide (02),SS,1/23/2017-EndOfYear,T21A,10T,AIDE,B,27,0.75,"26,814.00",20410.5,10919.62,8
-"Thompson, Pauline C.",Sr Account Clerk,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",44058,44058,8
-"Bodine, Janet M.",Secretary I,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"51,107.00",52771,52771,8
-"Hill, Kenneth R.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,20,1,"63,669.00",64189,64189,8
-"Chappell, Thomas W.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,20,1,"32,019.00",32019,32019,6.67
-"Adams, Nicki L.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",57410,57410,7.25
-"Soper, Janet",Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,22,1,"33,500.00",33833.5,33833.5,6.67
-"Gabriel, Glenna J.",Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,21,1,"32,772.00",33105.5,33105.5,6.67
-"Coons, Diane W.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",44058,44058,8
-"Hogan, Nicholas",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,90,1,"82,705.00",85994,85994,7.25
-"Monson, Allene",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,25,1,"74,335.00",74855,74855,8
-"Pettit, Cynthia C.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,28,0.75,"27,497.00",20922.75,20922.75,8
-"Benedict, Scott W.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,93,1,"73,200.00",75090,75090,7.25
-"Skellett, William L.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,35,1,"39,679.00",40012.5,40012.5,6.67
-"Scott, Carol G.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",64705,64705,7.25
-"Marconi-Rowley, Deanna L.",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"62,105.00",62105,62105,7.25
-"Fitzgerald-Salone, Shawn",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",58355,58355,7.25
-"Chase, Lelana A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,17,0.75,"21,262.00",16246.5,16246.5,8
-"Lee, Brenda G.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,29,0.75,"28,194.00",21445.5,21445.5,8
-"DeSalvo, Andrea",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",57688,57688,7.25
-"Bogart, Kathryn A.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",54688,54688,7.25
-"Drooby, David A.",Bldg Maint Assistant   T/PT,,7/1/2016-6/30/2017,,,,,,0,27,0,0,8
-"Rosati, Sharon W.",School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,98,1,"65,723.00",70335,70335,7.25
-"Loncosky, Laurie L.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,30,0.9,"37,890.00",34401.15,34401.15,6.67
-"Ingersoll, Erin M.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",51046,51046,7.25
-"Ryan, Lori A.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",65272,65272,7.25
-"Goodman, Rebecca G.",Coordinator SE-SIS (SETRC),NONC,2/27/2017-6/30/2017,T21A,10T,CORD,NA,,1,"77,472.00",77472,30988.8,8
-"Laursen, Mary A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16880.25,16880.25,8
-"Surphlis, Kara",School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,06,1,"56,066.00",60678,60678,7.25
-"Betts, Nicole A.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
-"Smith, Cynthia L.",Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,22,1,"33,500.00",33833.5,33833.5,6.67
-"Clement, Lauri A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,96,1,"68,507.00",72237,72237,7.25
-"Colucci, Tracy L.",School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",64705,64705,7.25
-"Bruzda, Shawn M.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,25,1,"37,673.00",38193,38193,8
-"Brockhuizen, Todd",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",58355,58355,7.25
-"Perkins, Mary W.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",56654,56654,7.25
-"Byrne, Malinda G.",Instructor Spec Ed,EA,9/27/2016-EndOfYear,T21A,10T,TCH,B,06,1,"56,066.00",61056,56171.52,7.25
-"Ammon, Jacqueline J.",Psychologist,EA,8/29/2016-9/1/2016,,10T,GRP2,NA,,1,"59,782.00",59782,0,7.25
-"VanNiel, Laura C.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,05,1,"56,656.00",60134,60134,7.25
-"Cerneskie, Anthony D.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,00,1,"62,949.00",65797,65797,7.25
-"Schwingle, Kathleen F.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,17,1,"58,364.00",58884,58884,8
-"Wegman, Kathryn A.",Coordinator of Leadership Institute,NONC,12/12/2016-6/30/2017,26PY,12M,CORD,NA,,1,300,300,2100,8
-"Markgraf, Kelly M.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
-"Spear, Deanne A.",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,96,1,"68,507.00",68507,68507,7.25
-"Campo, William N.",Coordinator of Multimedia Development,NONC,7/1/2016-EndOfYear,26PY,12M,CORD,NA,,1,"86,625.00",86625,86625,8
-"Boylan-Weaver, Deborah",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,13,0.9,"28,150.00",25635.15,25635.15,6.67
-"Marasco, Stacy E.",Instructional Asst,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",56176,56176,7.25
-"Bement, Krista A.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",52928,52928,7.25
-"Timmerman, Kevin G.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
-"Case, Carrie F.",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"62,105.00",62105,62105,7.25
-"Korzeniewski, Jolene P.",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"61,042.00",61042,61042,7.25
-"Casteline, James P.",Instructional Asst,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"61,042.00",61042,61042,7.25
-"Nielson, Mary Ann",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
-"Decker, Christine M.",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"61,042.00",61042,61042,7.25
-"Zadarlik, Sharon",Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,25,1,"42,303.00",42823,42823,8
-"Johnson, Jennifer A.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,16,0.9,"29,653.00",26987.85,26987.85,6.67
-"Eaton, Jacqueline R.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,20,1,"33,739.00",34259,34259,8
-"Penner, Kevin M.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",52887,52887,7.25
-"Sculli, Tiffany M.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,12,1,"47,527.00",51761,51761,7.25
-"Albright, Michelle L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,15092.25,8
-"Smith, Sharon D.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,07,1,"55,620.00",58909,58909,7.25
-"Baker, David B.",Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,19,1,"40,225.00",40225,40225,8
-"Bosje, Brad R.",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"58,960.00",58960,58960,7.25
-"Sweeting, Tyler J.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",55658,55658,7.25
-"Tyler, Audrey A.",Cleaner (02),SS,2/22/2017-EndOfYear,26PY,12M,LAB,N/A,8,1,"27,071.00",27071,9578.97,8
-"Schenk, Jennifer A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,17,0.75,"21,262.00",16246.5,16246.5,8
-"Verbridge, Matthew J.",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",49261,49261,7.25
-"Mahoney, Kristin L.",Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",51046,51046,7.25
-"Stephens, Christine B.",Speech Therapist (02),EA,4/24/2017-6/13/2017,,10T,TCH,B,93,1,54.4,0,0,7.25
-"Boldt, Peter S.",Bus/Comm Liaison 12 Mo,EA,7/1/2016-EndOfYear,26PY,12M,GRP4,NA,,1,"64,536.00",64536,64536,8
-"Thibault, Deborah L.",Instructional Asst,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",58733,58733,7.25
-"Morrison, Bonnie J.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,011,1,"51,997.00",55664,55664,7.25
-"Landry, Maria S.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
-"Sessler, Pamela A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16880.25,16880.25,8
-"Gardner, Kimberly J.",School Aide,SS,1/3/2017-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,8235.54,8
-"Steiner, Matthew W.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",56365,56365,7.25
-"Necessary, Kimberley M.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",55609,55609,7.25
-"Maselbas, Patti F.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,16,0.75,"20,888.00",15966,15966,8
-"Lasher, Melissa L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,23,0.75,"24,072.00",18354,18354,8
-"Ebeling, Matthew J.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,06,1,"56,066.00",61812,61812,7.25
-"Renahan, John",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,OFF,14,1,"82,174.00",82694,82694,8
-"Strong, Stacey L.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
-"Morse, Susan M.",Summer School Teacher,EA,7/11/2016-8/19/2016,SUME,SUME,TCH,B,012,1,"7,770.30",7770.3,7770.3,7.25
-"Richards, Leigh Ann",Summer School Teacher,EA,7/11/2016-8/19/2016,SUME,SUME,TCH,B,014,1,"7,939.20",7939.2,7939.2,7.25
-"Tuck, Erin L.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,15,0.9,"29,116.00",26504.55,26504.55,6.67
-"Kimball, Tresea M.",Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,22,1,"33,500.00",33500,33500,6.67
-"Randall, Jami L.",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,7,1,"45,493.00",51995,51995,7.25
-"Bradshaw, Mary M.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,5,0.9,"24,601.00",22441.05,22441.05,6.67
-"Pulcini, Susan M.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,12,0.9,"27,667.00",25200.45,25200.45,6.67
-"Switzer, Nancy S.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",50152,50152,7.25
-"Crawley, Patrick M.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",53643,53643,7.25
-"Gagnon, Linda V.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,17,0.75,"21,262.00",16246.5,16246.5,8
-"House, Karrie L.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,15,1,"29,116.00",29449.5,29449.5,6.67
-"Venuti, Amanda C.",Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
-"House, Peter G.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",61190,61190,7.25
-"Ingerick, Kimberly A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
-"Stone, Lisa M.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",51046,51046,7.25
-"Gordon, Marc D.","Instructor, Wayne County Jail,GED",EA,7/1/2016-6/30/2017,26PY,12M,GRP4,NA,,1,"52,131.00",52131,52131,8
-"Holzapfel, Vanessa E.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,5,1,"45,137.00",45704,45704,7.25
-"McConnell, Da-Vida M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
-"Smyth, Jenifer H.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,09,1,"53,780.00",56502,56502,7.25
-"Rossi, Joshua P.",Instructor Vocational/TCE,EA,9/1/2016-6/30/2017,T26A,10T,TCH,A,9,1,"45,984.00",45984,45984,7.25
-"Hall, Peggy S.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"O'Hora, Jacqueline A.",Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,32,1,"51,886.00",52406,52406,8
-"Marcano, Susan S.",Sr. Application Support Services Asst.,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,4,1,"46,780.00",46780,46780,8
-"VanLare, Jennifer M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
-"Tripp, Sarah A.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",53630,53630,7.25
-"Leoni, Andrew",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,1,1,"66,637.00",66637,66637,8
-"Richmond, Olga M.",Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,21,1,"37,382.00",37382,37382,8
-"Sheridan, Jessica M.",Director of Staff Development,NONC,7/1/2016-EndOfYear,26PY,12M,CORD,NA,,1,"92,700.00",92700,92700,8
-"Kenyon, Heather Y.",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"61,575.00",61575,61575,7.25
-"Hall Jr., Robert",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",57410,57410,7.25
-"Liberati, Allison M.",Secretary I,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"38,720.00",39552,39552,8
-"Edelman, Christopher E.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,09,1,"53,780.00",53780,53780,7.25
-"Rhinehart, Elizabeth Downs",Physical Therapist (04),EA,4/28/2017-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",58418,11975.69,7.25
-"Halsey, Stephanie A.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,9,0.9,"26,165.00",23848.65,23848.65,6.67
-"Ogrodowski, Bobbie J.",School Aide (02),SS,1/2/2017-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15686.25,9411.75,8
-"Enderlin, Darlene Y.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
-"Zerbe-Brandt, Joan R.",Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,20,1,"32,019.00",32352.5,32352.5,6.67
-"McVey, Andrew",Assistant Principal,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"83,605.00",83605,83605,8
-"Buttaccio, Mary M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,23,0.75,"24,072.00",18349,18349,8
-"Franke, Rebecca A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15674.25,15674.25,8
-"Robords, Dawn",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,013,1,"50,152.00",54386,54386,7.25
-"Chetney, Sara E.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,18,0.75,"21,682.00",16483,16483,8
-"Edelman, Susan E.",Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,4,1,"44,759.00",49497,49497,7.25
-"Martyniuk, Tricia P.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",53020,53020,7.25
-"Curtis, Allyssa J.",Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,016,1,"48,173.00",53667,53667,7.25
-"Koudelka McDonald, Joy",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,011,1,"51,997.00",57869,57869,7.25
-"Jones, Amy L.",Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,18,1,"30,783.00",30916.4,30916.4,6.67
-"D'Arduini, Danielle M.",Computer Services Assistant,SS,9/19/2016-EndOfYear,26PY,12M,CSA,OFF,11,1,"36,482.00",36482,28765.6,8
-"Doell, Peter C.",School Social Worker-10 Month on schedul,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",53873,53873,7.25
-"Conklin, Sheri D.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16261.5,16261.5,8
-"Carr, Kristen E.",Instructor Spec Ed,EA,9/1/2016-6/19/2017,T21A,10T,TCH,B,014,1,"49,261.00",52172,51128.52,7.25
-"Littlefield, Carrie L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16580.25,16580.25,8
-"Shields, Cheryl A.",Teacher Assistant Voc,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,9,0.9,"26,165.00",23548.5,23548.5,6.67
-"Congdon, Kimberly A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
-"Beniamino-Houghton, Elissa M.",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"53,909.00",53909,53909,7.25
-"Best, Tammi S.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Perrin, Michelle E.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
-"Newman, Matthew P.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,05,1,"56,656.00",59378,59378,7.25
-"Magee, Kelly A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,16,0.75,"20,888.00",15666,15666,8
-"Kerrick, Lisa L.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,11,0.9,"27,164.00",24447.6,24447.6,6.67
-"Howard, Karen M.",Instructor Spec Ed,EA,10/11/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",56050,48763.44,7.25
-"Power, Catherine A.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,10,0.9,"26,673.00",24005.7,24005.7,6.67
-"Baker, Hanna M.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,014,1,"49,261.00",52739,52739,7.25
-"Staiger, Ann T.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Pale, Ronald J.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Tanner, Elizabeth M.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,13,1,"29,659.00",29659,29659,8
-"Kelly, Margaret",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,20,0.75,"22,541.00",16905.75,16905.75,8
-"Wood, Karen E.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"Marshall, Shannon J.",Director Of Communications,NONC,2/6/2017-6/30/2017,26PY,12M,CORD,NA,,1,"59,000.00",59000,23600,8
-"LeVesque-Alampi, Michelle",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",49669,49669,7.25
-"Welch, Elizabeth M.",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,7,1,"45,493.00",51995,51995,7.25
-"Wilbur, Andrew V.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
-"Morone, Michael R.",Administrator of Online Instruction,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"83,156.00",83156,83156,8
-"Spiegel, Denise R.",Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,OFF,20,1,"43,013.00",43013,43013,8
-"Dennis, Michael A.",Laborer,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,11,1,"28,622.00",28622,28622,8
-"Meath, Tanya M.",Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,18,1,"30,783.00",30783,30783,6.67
-"Glitch, Mahalee N.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
-"Timmerman, Deana N.",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"54,224.00",54224,54224,7.25
-"Smith, Heather A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,016,1,"48,173.00",51084,51084,7.25
-"Alfieri, Stefanie J.",Instructor Physical Education,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,013,1,"50,152.00",53441,53441,7.25
-"Mattice, Lynn A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"Smith, Adam Z.",School Counselor,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"54,478.00",54478,54478,7.25
-"Bortle, Velvet L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
-"Dragos, Daniel O.",Comp Systems Analyst,SS,7/1/2016-EndOfYear,26PY,12M,WEB,OFF,23,1,"78,234.00",78234,78234,8
-"Laird, Theresa M.",Case Mgr/Career Coun (02),EA,9/1/2016-6/30/2017,26PY,12M,GRP4,NA,,1,"50,620.00",50620,42053.54,8
-"Serapilio, Betsy A.",Staff Dev Trainer,NONC,7/1/2016-EndOfYear,26PY,12M,CORD,NA,,1,"96,586.00",96586,96586,8
-"Contario, Tonya M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Frasca, Lynda A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
-"Braun, Linda A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",56595,56595,7.25
-"Maine, Ann M.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Kincaid, Christopher R.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,7,1,"48,873.00",48873,48873,8
-"Wildey, Andrew G.",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,4,1,"69,703.00",69703,69703,8
-"Munson, Karen M.",Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,97,1,"66,880.00",66880,66880,7.25
-"Iddings, Amy E.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
-"Ruggles, Nichole M.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,9,1,"45,984.00",49084,49084,7.25
-"Huff, Bonnie",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
-"D'Abbracci, Stephanie A.",Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",48786,48786,7.25
-"Terpolilli, Loni S.",Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",48786,48786,7.25
-"DeFisher, Dawn",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"Buisch, Frank R.",Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",43538,43538,8
-"Filiatreau, Shelly A.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
-"Sierens, Nicole M.",Instructor P-TECH,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,12,1,"47,527.00",50501,50501,7.25
-"Jones, Tamara E.",Coord of Instructional Support &Training,NONC,1/1/2017-6/30/2017,26PY,12M,CORD,NA,,1,"89,650.00",89650,44480.19,8
-"Tisa, Cheryl A.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Warrington, Jennifer L.",Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",55955.5,55955.5,7.25
-"Passalacqua, Karen L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16580.25,16580.25,8
-"Cassin, Brian R.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,11,1,"52,447.00",52447,52447,8
-"O'Halloran, Maureen E.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
-"Healy, Daniel J.",Principal Spec Ed,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"101,352.00",101352,101352,8
-"Parker, Courtney E.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
-"Hoobler, Deanna L.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Askin, Nicole S.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Record, Cheryl A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,10,0.75,"18,805.00",14103.75,14103.75,8
-"Masters, Gerald K.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,014,1,"49,261.00",55763,55763,7.25
-"Johnson, Tammy C.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Storms, Stephanie S.",Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,014,0.8,"49,261.00",43451.2,43451.2,7.25
-"Thomas, Kathleen M.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,05,1,"56,656.00",59378,59378,7.25
-"Navarra, Eric P.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",50249,50249,7.25
-"Byron, Carol E.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Maine, Gregory A.",Incarcerated Youth  Adult Literacy & Hea,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"77,250.00",77250,77250,8
-"Dennis, Carlotta A.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,10,1,"28,104.00",28104,28104,8
-"Tiffany, Michael W.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,06,1,"56,066.00",62568,62568,7.25
-"DeYoung, Dina",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,10,0.75,"18,805.00",14103.75,14103.75,8
-"Smith, Theresa L.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,17,1,"38,677.00",38677,38677,8
-"Pierce, Rebecca L.",Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,10,1,"30,092.00",33205,33205,8
-"Beck, Rebecca L.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,7,0.9,"25,322.00",22789.8,22789.8,6.67
-"VanVechten, Mary",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,11,1,"46,887.00",50365,50365,7.25
-"Pellegrino, Mark B.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Gill, Timothy A.",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,3,1,"68,659.00",68659,68659,8
-"Singer, Christopher R.",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"52,732.00",52732,52732,7.25
-"Case, Victoria L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
-"Moore, Phyllis",Manager of Financial Operations,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"73,182.00",73182,73182,8
-"Hawkins, Alissa B.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,10,1,"46,211.00",48933,48933,7.25
-"Greer, Amanda L.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",47481,47481,7.25
-"Grace, Courtney D.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",50256,50256,7.25
-"Simmons, Lisa M.",School Aide,SS,11/15/2016-EndOfYear,T21A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,11319.15,8
-"Smith, Deborah A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Nolan, Matthew R.",Instructor Physical Education,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,11,1,"46,887.00",49609,49609,7.25
-"LeFever, Tracy",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"Nudd, Brenda L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
-"Hollenbeck, Hillary A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,20,0.75,"22,541.00",16905.75,16905.75,8
-"Judge, Jennifer L.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Maslyn, Amy L.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",52294,52294,7.25
-"Schulmerich, Brian R.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,9,0.9,"26,165.00",23548.5,23548.5,6.67
-"Tiffany, Tracy L.",Registered Professional Nurse,SS,9/1/2016-EndOfYear,T26A,10T,RPN,B,14,1,"35,715.00",37500.75,37500.75,6.67
-"Weston, Joel M.",Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,OFF,11,1,"36,482.00",36482,36482,8
-"Worth, Mary Margaret",Teacher Assistant Voc,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,23,0.9,"33,989.00",30590.1,30590.1,6.67
-"Ferrente, Kelly L.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,00,1,"62,949.00",62949,62949,7.25
-"Norris, Melinda S.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Welch, Elizabeth M.",Public Information Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,0.6,"72,868.00",43720.8,43720.8,8
-"Olsen, Anina C.",Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,0.8,"54,688.00",43750.4,43750.4,7.25
-"Mineo, Donna J.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Bruce, Jennifer L.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
-"Johnson, Lisa R.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,04,1,"57,204.00",60493,60493,7.25
-"McClean, Linda I.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",43538,43538,8
-"Wesche, Laura A.",Financial Aid Coordinator,NONC,2/6/2017-6/30/2017,26PY,12M,CORD,NA,,1,"56,000.00",56000,22400,8
-"Placito, Darlene B.",Registered Professional Nurse,SS,9/1/2016-EndOfYear,T26A,10T,RPN,B,23,1,"42,629.00",44760.45,44760.45,6.67
-"Walker II, Stephen R.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T26A,10T,TA,A,3,0.9,"23,825.00",21442.5,21442.5,6.67
-"Frauel, Melanie G.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Rolenaitis, Nicole E.",School Aide (02),SS,6/12/2017-EndOfYear,T21A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,883.45,8
-"Drake, Joseph B.",Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"68,944.00",68944,68944,8
-"Behrendt, Heather M.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"O'Donnell, Jaime L.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",53768,53768,7.25
-"Samolis, Gayle D.",Instructional Asst,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",59389,59389,7.25
-"Smith, Sarah E.",Physical Therapist,EA,9/1/2016-6/20/2017,T26A,10T,TCH,A,12,1,"47,527.00",52202,51418.94,7.25
-"Murray, Cynthia L.",Secretary to Dist. Super/Clerk o,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"53,693.00",53693,53693,8
-"Meehan, Jennifer L.",Instructor Physical Education (03),EA,11/21/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",48933,36210.46,7.25
-"Rank, Jessica A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
-"Erwin III, John",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,011,1,"51,997.00",51997,51997,7.25
-"Pearson, Steven",School to Work Coordinator,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,10,1,"46,211.00",48996,48996,7.25
-"Carney, Bruce E.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Ginder, Dean K.",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,OFF,9,1,"75,244.00",75244,75244,8
-"Staiger, David M.",School Aide (02),SS,4/10/2017-EndOfYear,T21A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,4150.35,8
-"Krupcznski, Nellie",Administrative Aide,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"47,995.00",47995,47995,8
-"Smith, Tracy L.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
-"Lyon-Lawrence, Stephanie R.",School Lunch Manager,NREP,7/1/2016-EndOfYear,26PY,12M,OTHR,NA,,0.8,"56,330.00",45064,45064,8
-"Coons, Kevin L.",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,3,1,"68,659.00",68659,68659,8
-"Heaven, Melinda A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,7,1,"45,493.00",48215,48215,7.25
-"Smith, Laura A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,1,1,"43,387.00",46739,46739,7.25
-"Brown, Betsy F.",Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",54688,54688,7.25
-"Pogel, Jennifer H.",Occupational Therapist (03),EA,3/6/2017-EndOfYear,T21A,10T,TCH,B,010,0.6,"52,887.00",31732.2,12216.89,7.25
-"Pagano, Lorrie A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",52075,52075,7.25
-"Frey, Laura A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,7,0.75,"17,864.00",13398,13398,8
-"Luta, Carrie A.",HR/Benefits Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"56,651.00",56651,56651,8
-"Caleb, Steven M.",Sr. Application Support Services Asst.,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,9,1,"50,507.00",50507,50507,8
-"Wangler, Leah R.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,7,0.75,"17,864.00",13398,13398,8
-"Graham, Kristin M.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,8,1,"45,717.00",45717,45717,7.25
-"Stacy, Kyle A.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,5,1,"47,476.00",47476,47476,8
-"Enslow, Emily K.",Payroll Supervisor,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"53,975.00",53975,53975,8
-"Smith, Craig D.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Nicol, Christopher F.",Coordinator Supplemental  Services 11m,NONC,8/1/2016-6/30/2017,24PY,11M,CORD,NA,,1,"65,480.00",65480,65480,8
-"Snow, Jessica M.",Speech Therapist (02),EA,5/22/2017-EndOfYear,T26A,10T,TCH,A,7,1,"45,493.00",49349,6908.9,7.25
-"Doud, Elizabeth J.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,3,1,"44,389.00",45334,45334,7.25
-"Philbrick, Barbara J.",Instructor Vocational/TCE,EA,9/13/2016-6/30/2017,T26A,10T,TCH,B,03,1,"58,638.00",58638,56292.48,7.25
-"Herpich, Christopher G.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",48237,48237,7.25
-"Slentz, Kaley E.",Teacher Assistant SE,SS,6/12/2017-6/30/2017,T21A,10T,TA,A,5,0.9,"24,601.00",22140.9,1439.13,6.67
-"Quartaro, Coreen S.",Cleaner,SS,7/1/2016-12/22/2016,26PY,12M,LAB,N/A,6,1,"26,298.00",26298,12616.97,8
-"Sherman, Philip S.",Teacher Assistant SE,SS,4/12/2017-6/30/2017,T21A,10T,TA,A,6,0.9,"24,959.00",22463.1,5952.69,6.67
-"Wirth, Bethany L.",Typist-12 Month,SS,9/16/2016-EndOfYear,26PY,12M,TYP,N/A,7,1,"28,257.00",28257,22279.56,8
-"Laquitara, Debra J.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"Devlin, Rachel L.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
-"Morris, Brenda L.",School Aide (02),SS,1/5/2017-1/19/2017,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,135.92,8
-"Connell, Brittany A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,3,1,"44,389.00",47111,47111,7.25
-"Amphlett, Brian E.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",47527,47527,7.25
-"Booth, Ryan M.",Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"50,934.00",50934,50934,7.25
-"Wyatt, Kelly A.",Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"38,671.00",38671,38671,8
-"Hoyt, Kathleen J.",Executive Coordinator of Section V Athle,NONC,10/11/2016-6/30/2017,26PY,12M,OTHR,NA,,1,"90,000.00",90000,65076.92,8
-"Hawkes, Stephanie A.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,21,1,"41,846.00",41846,41846,8
-"Cobos, Christine M.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"Murphy, John D.",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,4,1,"69,703.00",69703,69703,8
-"Hills-Vanderstyne, Cathie S.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,18,1,"39,443.00",39443,39443,8
-"Albrecht, Lisa",Sr. Account Clerk Typist (03),SS,4/25/2017-5/31/2017,26PY,12M,BMM,OFF,17,0.8,"38,677.00",30941.6,3332.18,8
-"Makitra, Bridget K.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
-"Ross, Elizabeth A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"Phillips, Lisa M.",Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"57,306.00",57306,57306,8
-"Brightman, Kellyn M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
-"Smith, Stephen J.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,23,0.75,"24,072.00",18054,18054,8
-"White, Leslee",Registered Professional Nurse,SS,9/1/2016-EndOfYear,T21A,10T,RPN,B,16,1,"37,085.00",38939.25,38939.25,6.67
-"Bennett, Christopher L.",Principal Spec Ed,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"92,592.00",92592,92592,8
-"Blodgett, Julia A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,10,0.75,"18,805.00",14103.75,14103.75,8
-"Fiero, Kristen J.",Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,A,4,1,"24,226.00",24226,24226,6.67
-"Bussey, Jerry D.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,10,1,"51,492.00",51492,51492,8
-"Maher, Kimberly A.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,17,1,"38,677.00",38677,38677,8
-"Lindo, Kristen E.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,00,1,"62,949.00",66805,66805,7.25
-"Smith, Stanley M.",Student Services Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"71,897.00",71897,71897,8
-"Knowlton, Beatrice A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,15092.25,8
-"Quartaro, Nicholas D.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12833.25,8
-"Roelands, Julie A.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
-"Herbst, Michele L.",Teacher Assistant SE,SS,12/19/2016-6/30/2017,T26A,10T,TA,A,7,0.9,"25,322.00",22789.8,14471.52,6.67
-"Shipley Jr., John",InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,3,1,"68,659.00",68659,68659,8
-"Craine, Penny L.",Teacher Assistant SE (02),SS,9/6/2016-6/30/2017,T21A,10T,TA,A,4,0.9,"24,226.00",21803.4,21476.35,6.67
-"Anderson, Kylie E.",Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,N/A,8,1,"34,499.00",34499,34499,8
-"Ronan, Harrison M.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"LaBombard, Jennifer J.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
-"Calaman, Keith A.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,5,1,"45,137.00",50190,50190,7.25
-"Godlewski, Deborah S.",Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,17,1,"38,677.00",38677,38677,8
-"Rich, Martha A.",Instructor Clinical PN Program (03),EA,9/1/2016-6/30/2017,,,GRP5,NA,,0,34,0,0,7.25
-"Intini, Emily K.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"Parker-Mott, Kaja L.",Teacher Assistant SE,SS,9/19/2016-6/23/2017,T21A,10T,TA,A,6,0.9,"24,959.00",22463.1,21339.99,6.67
-"Hamlin, Ethan T.",Coordinator Operations/Business Developm,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"73,660.00",73660,73660,8
-"Rogers, Amy K.",Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"38,060.00",38060,38060,8
-"Mackenzie, William D.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,574,0,0,7.25
-"Peacock, Jeffery D.",Occupational Therapist,EA,3/6/2017-EndOfYear,T21A,10T,TCH,A,2,1,"44,028.00",46939,18071.5,7.25
-"Tillman, Heather L.",Online Course Instructor,EA,7/1/2016-11/1/2016,,,GRP6,NA,,0,0,0,0,7.25
-"Hammond, Benjamin W.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,4,1,"46,780.00",46780,46780,8
-"Perrin, Jessica J.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",48615,48615,7.25
-"Kirkey, Angela J.",Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"67,635.00",67635,67635,8
-"Peer, Elaine M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16261.5,16261.5,8
-"Schuth-Braeger, Ashley E.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,3,1,"44,389.00",47867,47867,7.25
-"Vermeersch, Alexandra J.",School Aide (02),SS,5/3/2017-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,2397.71,8
-"DeTaeye, Eric",Teacher Assistant SE,SS,1/30/2017-6/30/2017,T21A,10T,TA,A,4,0.9,"24,226.00",21803.4,11119.73,6.67
-"Pease, Michael R.",Guidance Counselor/10 month,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"52,288.00",52288,52288,7.25
-"Power Jr., John",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"Mooney, Lynne M.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"Donner, Michael H.",Online Course Instructor,EA,10/4/2016-6/30/2017,,,GRP6,NA,,1,0,0,0,7.25
-"Shumway, Kagney S.",Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,N/A,4,1,"32,605.00",32605,32605,8
-"Bellis, Christine A.",Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,STEN,N/A,8,1,"28,984.00",28984,28984,8
-"Baxter, Meg M.",School Aide (03),SS,6/16/2017-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,378.59,8
-"Colegrove, Diane M.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12833.25,8
-"Kitchens, Branden A.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"Bruni, Tammy M.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
-"Felker, Tamara R.",Financial  & Operation System Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"58,544.00",58544,58544,8
-"Goda, Dawn M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,2,0.75,"16,546.00",12409.5,12409.5,8
-"Downey, Jessica M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"Allegretti, Diane E.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,2,0.75,"16,546.00",12409.5,12409.5,8
-"Hickey, Marilyn A.",Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,7,0.9,"25,322.00",22789.8,22789.8,6.67
-"Harper, Kevin M.",Messenger,SS,7/1/2016-EndOfYear,26PY,12M,TYP,OFF,10,1,"29,764.00",29764,29764,8
-"Newhart, Luke J.",Sr. Application Support Services Asst.,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,3,1,"46,057.00",46057,46057,8
-"Atkinson, Thomas W.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,03,1,"58,638.00",58638,58638,7.25
-"Conners, Kristin L.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,N/A,7,1,"26,680.00",26680,26680,8
-"Kuhn, Alicia N.",Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",49122,49122,7.25
-"Aldrich, Celina B.",Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,11,1,"46,887.00",51247,51247,7.25
-"Paladino, Kelly M.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",52887,52887,7.25
-"George-Jones, Betsy L.",Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",53776,53776,7.25
-"Marshall, Tiffany M.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"Tyler, Sarah E.",Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"32,809.00",32809,32809,8
-"Kelley, Peter M.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,015,1,"48,786.00",48786,48786,7.25
-"Ayers, Ryan R.",Library Media Specialist,NONC,9/1/2016-EndOfYear,T26A,10T,CORD,NA,,1,"58,867.00",58867,58867,8
-"Haywood, Kathryn A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",48615,48615,7.25
-"Kazmark, Karen J.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,10,1,"28,104.00",28104,28104,8
-"Palmer, Emily E.",Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,N/A,5,1,"25,921.00",25921,25921,8
-"Williams, Melissa R.",School Aide,SS,9/1/2016-11/4/2016,T21A,10T,AIDE,A,6,0.75,"17,611.00",13208.25,2905.83,8
-"Orbaker, Michelle C.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"Perry, Audrey S.",Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"35,983.00",35983,35983,8
-"O'Quain, Staci M.",Fiscal Manager,NREP,7/18/2016-EndOfYear,26PY,12M,CONF,NA,,1,"56,000.00",56000,53630.77,8
-"Hokanson, Eric W.",Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,N/A,3,1,"32,150.00",32150,32150,8
-"Joseph, Amy R.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
-"Vicki-Bates, Amie J.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
-"Wright, Mary J.",School Aide (02),SS,3/22/2017-EndOfYear,T26A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,4290.63,8
-"Barrett, Christine P.",Sr Account Clerk,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,10,1,"34,165.00",34165,34165,8
-"Hidy, F. Brian",Student Services Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"62,026.00",62026,62026,8
-"Barr, Bridgette T.",Shared Data Coordinator,NONC,7/1/2016-8/19/2016,26PY,12M,CORD,NA,,1,"66,723.00",66723,9238.57,8
-"Larson, Julie A.",Coord Technology,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"79,181.00",79181,79181,8
-"Ingersoll, Paul A.",Information Technology Network Tech,SS,3/31/2017-EndOfYear,26PY,12M,CSA,OFF,9,1,"35,137.00",35137,8784.25,8
-"Pietropaolo, Susan K.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"Semmel, Jason R.",Instructor Physical Education,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,8,1,"45,717.00",49069,49069,7.25
-"Pietropaolo, Emily G.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,2,0.75,"16,546.00",12409.5,12409.5,8
-"Dawley, Jeffrey A.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",46211,46211,7.25
-"Younglove, Nancy J.",School Lunch Manager,NREP,7/1/2016-EndOfYear,26PY,12M,OTHR,NA,,1,"51,500.00",51500,51500,8
-"Bergstresser, Steven C.",Info Tech Network Analyst I,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,8,1,"49,590.00",49590,49590,8
-"Baker, Ashley E.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,1,0.75,"16,273.00",12205,12205,8
-"Yaddaw, Kelly A.",Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",52831,52831,7.25
-"Anderson, Shannon M.",Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",54902,54902,7.25
-"Henry, Kevin M.",Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"68,495.00",68495,68495,8
-"Peck, Rachel C.",Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,10,1,"46,211.00",50067,50067,7.25
-"Janshego, Gregg R.",Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,8,1,"49,590.00",49590,49590,8
-"Herold, Tracy L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
-"Dorn, Kerry A.",Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,00,1,"62,949.00",63781,63781,7.25
-"Lobdell, Angel R.",School Aide,SS,2/27/2017-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,5338.2,8
-"Hickson, Sherri L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,6,0.75,"17,611.00",13208.25,13208.25,8
-"Jordan, Robyn R.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"Mariani, Lauren L.",Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"49,817.00",49817,49817,7.25
-"Totman, Mollie E.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12833.25,8
-"Wyand, Susan M.",Instructor /Clinical-Health Dimensions,EA,10/28/2016-6/15/2017,,,TCH,B,016,0,33.22,0,0,7.25
-"Valentin, Alan M.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,1,0.75,"16,273.00",12205,12205,8
-"Debs, Darren E.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
-"Ridley, Melissa A.",Instructor ESOL,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,5,0.9,"45,137.00",43583.4,43583.4,7.25
-"Laber, Bolina T.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,9,1,"45,984.00",49273,49273,7.25
-"Figueroa, Betty M.",School Aide,SS,10/27/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,10459.11,8
-"Church, Robin L.",School Aide,SS,11/8/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,10726.95,8
-"Cravatta, Richard C.",Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
-"McDonald, Thomas",Teacher Assistant SE,SS,11/21/2016-6/30/2017,T21A,10T,TA,B,9,0.9,"26,165.00",23548.5,17425.93,6.67
-"Bashir, Sherif H.",Computer Services Assistant,SS,8/1/2016-EndOfYear,26PY,12M,CSA,N/A,8,1,"34,499.00",34499,31845.23,8
-"Bowman, Melissa A.",Secretary I,NREP,8/15/2016-EndOfYear,26PY,12M,CONF,NA,,1,"39,000.00",39000,34500,8
-"Dillon, Nicole L.",Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",49261,49261,7.25
-"Damico, David P.",Instructor Vocational/TCE,EA,9/1/2016-6/30/2017,T26A,10T,TCH,B,02.1,1,"58,188.00",58188,58188,7.25
-"Decker, Ashley H.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,4,1,"44,759.00",45704,45704,7.25
-"O'Lena, Erika D.",School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",50816,50816,7.25
-"Lada, Stephanie L.",School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
-"King, Julie A.",Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,7,1,"45,493.00",51504,51504,7.25
-"Church, Connor C.",Instructor Spec Ed,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,2,1,"44,028.00",46750,46750,7.25
-"Prindle, Keith A.",HVAC Serv Engineer,SS,9/6/2016-EndOfYear,26PY,12M,HVAC,OFF,22,1,"55,713.00",55713,45641.8,8
-"Brannan, Steven P.",Instructor Vocational/TCE,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,7,0.5,"45,493.00",22746.5,22746.5,7.25
-"Youngman, Abbie P.",School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
-"Soto, Kelly J.",School Aide (02),SS,6/15/2017-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,484.47,8
-"Cantu, Alison L.",Instructor Spec Ed,EA,9/29/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",58359,53196.7,7.25
-"Hart, Matthew R.",Building Maintenance Assistant,SS,9/15/2016-EndOfYear,26PY,12M,BMA,OFF,9,1,"28,893.00",28893,23001.27,8
-"Warne, Brittany M.",School Aide,SS,9/19/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12191.63,8
-"Bedient, Shea",Messenger,SS,10/3/2016-EndOfYear,26PY,12M,TYP,N/A,8,1,"28,669.00",28669,21391.48,8
-"Mabbett, Kaylee E.",Typist T/PT,NONE,10/3/2016-6/30/2017,,12M,,,,0,10.5,0,0,8
-"Baughman, Keith E.",Computer Services Assistant (02),SS,1/27/2017-EndOfYear,26PY,12M,CSA,N/A,8,1,"34,499.00",34499,14595.73,8
-"Wilson, Jamie S.",Instructor Spec Ed,EA,10/26/2016-EndOfYear,T21A,10T,TCH,A,9,1,"45,984.00",48706,39938.92,7.25
-"Griffin, Jennifer T.",Occupational Therapist,EA,10/17/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",51046,43389.1,7.25
-"Hilburn, Jacob J.",Messenger,SS,10/18/2016-EndOfYear,26PY,12M,TYP,N/A,8,1,"28,669.00",28669,20178.56,8
-"Sutliff-Atias, David R.","Instructor, High School Eqivalency",EA,11/28/2016-6/30/2017,26PY,12M,GRP4,NA,,1,"52,017.00",52017,30810.07,8
-"Vollmer, Sarah M.",Instructor Vocational/TCE,EA,1/10/2017-6/30/2017,T21A,10T,TCH,B,015,1,"48,786.00",48786,27808.02,7.25
-"Tallman, Kaylee N.",Occupational  Therapist Intern,NONE,1/3/2017-3/24/2017,,,OTHR,NA,,1,0,0,0,7.25
-"Naramore, Jennifer E.",Instructor ESOL,EA,1/3/2017-6/30/2017,T21A,10T,TCH,A,1,0.6,"43,387.00",27430.8,16321.32,7.25
-"Nudd, George R.",School Aide,SS,1/27/2017-6/30/2017,T21A,10T,AIDE,A,0,0.75,"16,005.00",12003.75,6181.94,8
-"Sosnowski, Vicki A.",Account Clerk Typist,SS,1/23/2017-EndOfYear,26PY,12M,STEN,OFF,14,1,"32,224.00",32224,14128.98,8
-"Roberts, Jodi L.",Psychologist,EA,2/27/2017-EndOfYear,T21A,10T,GRP2,NA,,1,"54,000.00",54000,22140,7.25
-"Zaffrann, Carrie L.",Speech Therapist,EA,2/27/2017-EndOfYear,T21A,10T,TCH,A,12,1,"47,527.00",51698,21196.2,7.25
-"Hunter, Sean D.",Laborer,SS,3/31/2017-EndOfYear,26PY,12M,LAB,OFF,9,1,"27,569.00",27569,6997.98,8
-"Christmas, Barbara M.",Sr Account Clerk,SS,6/7/2017-EndOfYear,26PY,12M,BMM,OFF,19,1,"40,225.00",40225,2775.06,8
-Total Count,473,Grand Total,"17,316,053.16",,,,,,,,,,
-WinCap,Ver. 26.01.12.2430,,,,,,,,,,,,
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",54688,54688,7.25
+Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,18,1,"39,443.00",39963,39963,8
+Stock Clerk,SS,7/1/2016-EndOfYear,26PY,12M,CSA,OFF,19,1,"42,179.00",42699,42699,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,16,0.9,"29,653.00",26687.7,26687.7,6.67
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
+e-Learning Director,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"96,063.00",96063,96063,8
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,18,1,"30,783.00",31116.5,31116.5,6.67
+Wide  Area Network Manager,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"115,995.00",115995,115995,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,22,0.75,"23,465.00",17898.75,17898.75,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",64894,64894,7.25
+Financial  & Operation System Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"55,105.00",55105,55105,8
+Instructor Physical Education,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,016,1,"48,173.00",50945,50945,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,94,1,"71,579.00",74616,74616,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",49261,49261,7.25
+Principal Spec Ed,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"86,994.00",86994,86994,8
+Stenographer,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,31,0.8,"50,369.00",40711.2,40711.2,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,27,0.75,"26,814.00",20410.5,20410.5,8
+Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,22,1,"33,500.00",33833.5,33833.5,6.67
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,01,1,"61,794.00",63684,63684,7.25
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,29,1,"37,344.00",37677.5,37677.5,6.67
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,31,0.75,"29,492.00",22419,22419,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"65,642.00",65642,65642,7.25
+Building Maintenance Assistant,SS,7/1/2016-EndOfYear,26PY,12M,BMA,OFF,27,1,"42,209.00",42729,42729,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"80,278.00",80278,80278,7.25
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
+Sr Network Analyst,SS,7/1/2016-EndOfYear,26PY,12M,SNET,OFF,22,1,"96,013.00",96533,96533,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,96,1,"68,507.00",71040,71040,7.25
+Instructor Physical Education,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,011,1,"51,997.00",55097,55097,7.25
+Teacher Assistant Voc,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,15,0.9,"29,116.00",26204.4,26204.4,6.67
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,18,1,"30,783.00",31116.5,31116.5,6.67
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,27,1,"49,766.00",53399,53399,8
+Coordinator of Data Services,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"78,654.00",78654,78654,8
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"61,461.00",61461,61461,7.25
+Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,22,1,"42,682.00",43202,43202,8
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,24,1,"36,825.00",37345,37345,8
+School Aide (02),SS,1/23/2017-EndOfYear,T21A,10T,AIDE,B,27,0.75,"26,814.00",20410.5,10919.62,8
+Sr Account Clerk,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",44058,44058,8
+Secretary I,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"51,107.00",52771,52771,8
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,20,1,"63,669.00",64189,64189,8
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,20,1,"32,019.00",32019,32019,6.67
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",57410,57410,7.25
+Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,22,1,"33,500.00",33833.5,33833.5,6.67
+Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,21,1,"32,772.00",33105.5,33105.5,6.67
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",44058,44058,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,90,1,"82,705.00",85994,85994,7.25
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,25,1,"74,335.00",74855,74855,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,28,0.75,"27,497.00",20922.75,20922.75,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,93,1,"73,200.00",75090,75090,7.25
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,35,1,"39,679.00",40012.5,40012.5,6.67
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",64705,64705,7.25
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"62,105.00",62105,62105,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",58355,58355,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,17,0.75,"21,262.00",16246.5,16246.5,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,29,0.75,"28,194.00",21445.5,21445.5,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",57688,57688,7.25
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",54688,54688,7.25
+Bldg Maint Assistant   T/PT,,7/1/2016-6/30/2017,,,,,,0,27,0,0,8
+School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,98,1,"65,723.00",70335,70335,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,30,0.9,"37,890.00",34401.15,34401.15,6.67
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",51046,51046,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",65272,65272,7.25
+Coordinator SE-SIS (SETRC),NONC,2/27/2017-6/30/2017,T21A,10T,CORD,NA,,1,"77,472.00",77472,30988.8,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16880.25,16880.25,8
+School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,06,1,"56,066.00",60678,60678,7.25
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
+Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,22,1,"33,500.00",33833.5,33833.5,6.67
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,96,1,"68,507.00",72237,72237,7.25
+School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,01,1,"61,794.00",64705,64705,7.25
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,25,1,"37,673.00",38193,38193,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",58355,58355,7.25
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",56654,56654,7.25
+Instructor Spec Ed,EA,9/27/2016-EndOfYear,T21A,10T,TCH,B,06,1,"56,066.00",61056,56171.52,7.25
+Psychologist,EA,8/29/2016-9/1/2016,,10T,GRP2,NA,,1,"59,782.00",59782,0,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,05,1,"56,656.00",60134,60134,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,00,1,"62,949.00",65797,65797,7.25
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,17,1,"58,364.00",58884,58884,8
+Coordinator of Leadership Institute,NONC,12/12/2016-6/30/2017,26PY,12M,CORD,NA,,1,300,300,2100,8
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,19,1,"31,394.00",31727.5,31727.5,6.67
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,96,1,"68,507.00",68507,68507,7.25
+Coordinator of Multimedia Development,NONC,7/1/2016-EndOfYear,26PY,12M,CORD,NA,,1,"86,625.00",86625,86625,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,13,0.9,"28,150.00",25635.15,25635.15,6.67
+Instructional Asst,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",56176,56176,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",52928,52928,7.25
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"62,105.00",62105,62105,7.25
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"61,042.00",61042,61042,7.25
+Instructional Asst,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"61,042.00",61042,61042,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"61,042.00",61042,61042,7.25
+Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,25,1,"42,303.00",42823,42823,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,16,0.9,"29,653.00",26987.85,26987.85,6.67
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,20,1,"33,739.00",34259,34259,8
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",52887,52887,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,12,1,"47,527.00",51761,51761,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,15092.25,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,07,1,"55,620.00",58909,58909,7.25
+Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,19,1,"40,225.00",40225,40225,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"58,960.00",58960,58960,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",55658,55658,7.25
+Cleaner (02),SS,2/22/2017-EndOfYear,26PY,12M,LAB,N/A,8,1,"27,071.00",27071,9578.97,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,17,0.75,"21,262.00",16246.5,16246.5,8
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",49261,49261,7.25
+Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",51046,51046,7.25
+Speech Therapist (02),EA,4/24/2017-6/13/2017,,10T,TCH,B,93,1,54.4,0,0,7.25
+Bus/Comm Liaison 12 Mo,EA,7/1/2016-EndOfYear,26PY,12M,GRP4,NA,,1,"64,536.00",64536,64536,8
+Instructional Asst,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",58733,58733,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,011,1,"51,997.00",55664,55664,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16880.25,16880.25,8
+School Aide,SS,1/3/2017-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,8235.54,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",56365,56365,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",55609,55609,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,16,0.75,"20,888.00",15966,15966,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,23,0.75,"24,072.00",18354,18354,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,06,1,"56,066.00",61812,61812,7.25
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,OFF,14,1,"82,174.00",82694,82694,8
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
+Summer School Teacher,EA,7/11/2016-8/19/2016,SUME,SUME,TCH,B,012,1,"7,770.30",7770.3,7770.3,7.25
+Summer School Teacher,EA,7/11/2016-8/19/2016,SUME,SUME,TCH,B,014,1,"7,939.20",7939.2,7939.2,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,15,0.9,"29,116.00",26504.55,26504.55,6.67
+Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,22,1,"33,500.00",33500,33500,6.67
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,7,1,"45,493.00",51995,51995,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,5,0.9,"24,601.00",22441.05,22441.05,6.67
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,12,0.9,"27,667.00",25200.45,25200.45,6.67
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",50152,50152,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",53643,53643,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,17,0.75,"21,262.00",16246.5,16246.5,8
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,15,1,"29,116.00",29449.5,29449.5,6.67
+Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,16,1,"29,653.00",29986.5,29986.5,6.67
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",61190,61190,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",51046,51046,7.25
+"Instructor, Wayne County Jail,GED",EA,7/1/2016-6/30/2017,26PY,12M,GRP4,NA,,1,"52,131.00",52131,52131,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,5,1,"45,137.00",45704,45704,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,09,1,"53,780.00",56502,56502,7.25
+Instructor Vocational/TCE,EA,9/1/2016-6/30/2017,T26A,10T,TCH,A,9,1,"45,984.00",45984,45984,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,32,1,"51,886.00",52406,52406,8
+Sr. Application Support Services Asst.,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,4,1,"46,780.00",46780,46780,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",53630,53630,7.25
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,1,1,"66,637.00",66637,66637,8
+Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,21,1,"37,382.00",37382,37382,8
+Director of Staff Development,NONC,7/1/2016-EndOfYear,26PY,12M,CORD,NA,,1,"92,700.00",92700,92700,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"61,575.00",61575,61575,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,08,1,"54,688.00",57410,57410,7.25
+Secretary I,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"38,720.00",39552,39552,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,09,1,"53,780.00",53780,53780,7.25
+Physical Therapist (04),EA,4/28/2017-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",58418,11975.69,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,9,0.9,"26,165.00",23848.65,23848.65,6.67
+School Aide (02),SS,1/2/2017-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15686.25,9411.75,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16561.5,16561.5,8
+Teacher Assistant Voc,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,20,1,"32,019.00",32352.5,32352.5,6.67
+Assistant Principal,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"83,605.00",83605,83605,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,23,0.75,"24,072.00",18349,18349,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15674.25,15674.25,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,013,1,"50,152.00",54386,54386,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,18,0.75,"21,682.00",16483,16483,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,4,1,"44,759.00",49497,49497,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",53020,53020,7.25
+Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,016,1,"48,173.00",53667,53667,7.25
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,011,1,"51,997.00",57869,57869,7.25
+Teacher Assistant SE,SS,9/1/2016-EndOfYear,T26A,10T,TA,B,18,1,"30,783.00",30916.4,30916.4,6.67
+Computer Services Assistant,SS,9/19/2016-EndOfYear,26PY,12M,CSA,OFF,11,1,"36,482.00",36482,28765.6,8
+School Social Worker-10 Month on schedul,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",53873,53873,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16261.5,16261.5,8
+Instructor Spec Ed,EA,9/1/2016-6/19/2017,T21A,10T,TCH,B,014,1,"49,261.00",52172,51128.52,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16580.25,16580.25,8
+Teacher Assistant Voc,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,9,0.9,"26,165.00",23548.5,23548.5,6.67
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"53,909.00",53909,53909,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,05,1,"56,656.00",59378,59378,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,16,0.75,"20,888.00",15666,15666,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,11,0.9,"27,164.00",24447.6,24447.6,6.67
+Instructor Spec Ed,EA,10/11/2016-EndOfYear,T21A,10T,TCH,B,010,1,"52,887.00",56050,48763.44,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,10,0.9,"26,673.00",24005.7,24005.7,6.67
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,014,1,"49,261.00",52739,52739,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,13,1,"29,659.00",29659,29659,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,20,0.75,"22,541.00",16905.75,16905.75,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+Director Of Communications,NONC,2/6/2017-6/30/2017,26PY,12M,CORD,NA,,1,"59,000.00",59000,23600,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",49669,49669,7.25
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,7,1,"45,493.00",51995,51995,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
+Administrator of Online Instruction,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"83,156.00",83156,83156,8
+Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,OFF,20,1,"43,013.00",43013,43013,8
+Laborer,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,11,1,"28,622.00",28622,28622,8
+Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T21A,10T,TA,B,18,1,"30,783.00",30783,30783,6.67
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"54,224.00",54224,54224,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,016,1,"48,173.00",51084,51084,7.25
+Instructor Physical Education,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,013,1,"50,152.00",53441,53441,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+School Counselor,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"54,478.00",54478,54478,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
+Comp Systems Analyst,SS,7/1/2016-EndOfYear,26PY,12M,WEB,OFF,23,1,"78,234.00",78234,78234,8
+Case Mgr/Career Coun (02),EA,9/1/2016-6/30/2017,26PY,12M,GRP4,NA,,1,"50,620.00",50620,42053.54,8
+Staff Dev Trainer,NONC,7/1/2016-EndOfYear,26PY,12M,CORD,NA,,1,"96,586.00",96586,96586,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",56595,56595,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,7,1,"48,873.00",48873,48873,8
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,4,1,"69,703.00",69703,69703,8
+Physical Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,97,1,"66,880.00",66880,66880,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,15,0.75,"20,515.00",15386.25,15386.25,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,9,1,"45,984.00",49084,49084,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
+Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",48786,48786,7.25
+Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",48786,48786,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+Bldg Maint Mechanic,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",43538,43538,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
+Instructor P-TECH,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,12,1,"47,527.00",50501,50501,7.25
+Coord of Instructional Support &Training,NONC,1/1/2017-6/30/2017,26PY,12M,CORD,NA,,1,"89,650.00",89650,44480.19,8
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",55955.5,55955.5,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,19,0.75,"22,107.00",16580.25,16580.25,8
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,11,1,"52,447.00",52447,52447,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
+Principal Spec Ed,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"101,352.00",101352,101352,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,8,0.9,"25,691.00",23121.9,23121.9,6.67
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,10,0.75,"18,805.00",14103.75,14103.75,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,014,1,"49,261.00",55763,55763,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,014,0.8,"49,261.00",43451.2,43451.2,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,05,1,"56,656.00",59378,59378,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",50249,50249,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+Incarcerated Youth  Adult Literacy & Hea,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"77,250.00",77250,77250,8
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,10,1,"28,104.00",28104,28104,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,06,1,"56,066.00",62568,62568,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,10,0.75,"18,805.00",14103.75,14103.75,8
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,17,1,"38,677.00",38677,38677,8
+Secretary I,SS,7/1/2016-EndOfYear,26PY,12M,STEN,OFF,10,1,"30,092.00",33205,33205,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,7,0.9,"25,322.00",22789.8,22789.8,6.67
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,11,1,"46,887.00",50365,50365,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,3,1,"68,659.00",68659,68659,8
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"52,732.00",52732,52732,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
+Manager of Financial Operations,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"73,182.00",73182,73182,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,10,1,"46,211.00",48933,48933,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",47481,47481,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",50256,50256,7.25
+School Aide,SS,11/15/2016-EndOfYear,T21A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,11319.15,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+Instructor Physical Education,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,11,1,"46,887.00",49609,49609,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,20,0.75,"22,541.00",16905.75,16905.75,8
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,013,1,"50,152.00",52294,52294,7.25
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,B,9,0.9,"26,165.00",23548.5,23548.5,6.67
+Registered Professional Nurse,SS,9/1/2016-EndOfYear,T26A,10T,RPN,B,14,1,"35,715.00",37500.75,37500.75,6.67
+Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,OFF,11,1,"36,482.00",36482,36482,8
+Teacher Assistant Voc,SS,9/1/2016-6/30/2017,T26A,10T,TA,B,23,0.9,"33,989.00",30590.1,30590.1,6.67
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,00,1,"62,949.00",62949,62949,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+Public Information Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,0.6,"72,868.00",43720.8,43720.8,8
+Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,0.8,"54,688.00",43750.4,43750.4,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,12,0.75,"19,498.00",14623.5,14623.5,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,04,1,"57,204.00",60493,60493,7.25
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,23,1,"43,538.00",43538,43538,8
+Financial Aid Coordinator,NONC,2/6/2017-6/30/2017,26PY,12M,CORD,NA,,1,"56,000.00",56000,22400,8
+Registered Professional Nurse,SS,9/1/2016-EndOfYear,T26A,10T,RPN,B,23,1,"42,629.00",44760.45,44760.45,6.67
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T26A,10T,TA,A,3,0.9,"23,825.00",21442.5,21442.5,6.67
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+School Aide (02),SS,6/12/2017-EndOfYear,T21A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,883.45,8
+Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"68,944.00",68944,68944,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",53768,53768,7.25
+Instructional Asst,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",59389,59389,7.25
+Physical Therapist,EA,9/1/2016-6/20/2017,T26A,10T,TCH,A,12,1,"47,527.00",52202,51418.94,7.25
+Secretary to Dist. Super/Clerk o,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"53,693.00",53693,53693,8
+Instructor Physical Education (03),EA,11/21/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",48933,36210.46,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,011,1,"51,997.00",51997,51997,7.25
+School to Work Coordinator,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,10,1,"46,211.00",48996,48996,7.25
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,OFF,9,1,"75,244.00",75244,75244,8
+School Aide (02),SS,4/10/2017-EndOfYear,T21A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,4150.35,8
+Administrative Aide,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"47,995.00",47995,47995,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
+School Lunch Manager,NREP,7/1/2016-EndOfYear,26PY,12M,OTHR,NA,,0.8,"56,330.00",45064,45064,8
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,3,1,"68,659.00",68659,68659,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,7,1,"45,493.00",48215,48215,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,1,1,"43,387.00",46739,46739,7.25
+Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,08,1,"54,688.00",54688,54688,7.25
+Occupational Therapist (03),EA,3/6/2017-EndOfYear,T21A,10T,TCH,B,010,0.6,"52,887.00",31732.2,12216.89,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",52075,52075,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,7,0.75,"17,864.00",13398,13398,8
+HR/Benefits Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"56,651.00",56651,56651,8
+Sr. Application Support Services Asst.,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,9,1,"50,507.00",50507,50507,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,7,0.75,"17,864.00",13398,13398,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,8,1,"45,717.00",45717,45717,7.25
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,5,1,"47,476.00",47476,47476,8
+Payroll Supervisor,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"53,975.00",53975,53975,8
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Coordinator Supplemental  Services 11m,NONC,8/1/2016-6/30/2017,24PY,11M,CORD,NA,,1,"65,480.00",65480,65480,8
+Speech Therapist (02),EA,5/22/2017-EndOfYear,T26A,10T,TCH,A,7,1,"45,493.00",49349,6908.9,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,3,1,"44,389.00",45334,45334,7.25
+Instructor Vocational/TCE,EA,9/13/2016-6/30/2017,T26A,10T,TCH,B,03,1,"58,638.00",58638,56292.48,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",48237,48237,7.25
+Teacher Assistant SE,SS,6/12/2017-6/30/2017,T21A,10T,TA,A,5,0.9,"24,601.00",22140.9,1439.13,6.67
+Cleaner,SS,7/1/2016-12/22/2016,26PY,12M,LAB,N/A,6,1,"26,298.00",26298,12616.97,8
+Teacher Assistant SE,SS,4/12/2017-6/30/2017,T21A,10T,TA,A,6,0.9,"24,959.00",22463.1,5952.69,6.67
+Typist-12 Month,SS,9/16/2016-EndOfYear,26PY,12M,TYP,N/A,7,1,"28,257.00",28257,22279.56,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
+School Aide (02),SS,1/5/2017-1/19/2017,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,135.92,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,3,1,"44,389.00",47111,47111,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",47527,47527,7.25
+Psychologist,EA,9/1/2016-EndOfYear,T26A,10T,GRP2,NA,,1,"50,934.00",50934,50934,7.25
+Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"38,671.00",38671,38671,8
+Executive Coordinator of Section V Athle,NONC,10/11/2016-6/30/2017,26PY,12M,OTHR,NA,,1,"90,000.00",90000,65076.92,8
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,21,1,"41,846.00",41846,41846,8
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,4,1,"69,703.00",69703,69703,8
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,18,1,"39,443.00",39443,39443,8
+Sr. Account Clerk Typist (03),SS,4/25/2017-5/31/2017,26PY,12M,BMM,OFF,17,0.8,"38,677.00",30941.6,3332.18,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,13,0.75,"19,839.00",14879.25,14879.25,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"57,306.00",57306,57306,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,23,0.75,"24,072.00",18054,18054,8
+Registered Professional Nurse,SS,9/1/2016-EndOfYear,T21A,10T,RPN,B,16,1,"37,085.00",38939.25,38939.25,6.67
+Principal Spec Ed,WADU,7/1/2016-EndOfYear,26PY,12M,WADU,NA,,1,"92,592.00",92592,92592,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,10,0.75,"18,805.00",14103.75,14103.75,8
+Licensed Practical Nurse,SS,9/1/2016-EndOfYear,T26A,10T,TA,A,4,1,"24,226.00",24226,24226,6.67
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,OFF,10,1,"51,492.00",51492,51492,8
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,17,1,"38,677.00",38677,38677,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,00,1,"62,949.00",66805,66805,7.25
+Student Services Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"71,897.00",71897,71897,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,14,0.75,"20,123.00",15092.25,15092.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12833.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
+Teacher Assistant SE,SS,12/19/2016-6/30/2017,T26A,10T,TA,A,7,0.9,"25,322.00",22789.8,14471.52,6.67
+InfoTech Network Analyst II,SS,7/1/2016-EndOfYear,26PY,12M,SNET,N/A,3,1,"68,659.00",68659,68659,8
+Teacher Assistant SE (02),SS,9/6/2016-6/30/2017,T21A,10T,TA,A,4,0.9,"24,226.00",21803.4,21476.35,6.67
+Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,N/A,8,1,"34,499.00",34499,34499,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,11,0.75,"19,150.00",14362.5,14362.5,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,5,1,"45,137.00",50190,50190,7.25
+Sr. Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,17,1,"38,677.00",38677,38677,8
+Instructor Clinical PN Program (03),EA,9/1/2016-6/30/2017,,,GRP5,NA,,0,34,0,0,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+Teacher Assistant SE,SS,9/19/2016-6/23/2017,T21A,10T,TA,A,6,0.9,"24,959.00",22463.1,21339.99,6.67
+Coordinator Operations/Business Developm,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"73,660.00",73660,73660,8
+Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"38,060.00",38060,38060,8
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,574,0,0,7.25
+Occupational Therapist,EA,3/6/2017-EndOfYear,T21A,10T,TCH,A,2,1,"44,028.00",46939,18071.5,7.25
+Online Course Instructor,EA,7/1/2016-11/1/2016,,,GRP6,NA,,0,0,0,0,7.25
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,4,1,"46,780.00",46780,46780,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",48615,48615,7.25
+Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"67,635.00",67635,67635,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,18,0.75,"21,682.00",16261.5,16261.5,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,3,1,"44,389.00",47867,47867,7.25
+School Aide (02),SS,5/3/2017-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,2397.71,8
+Teacher Assistant SE,SS,1/30/2017-6/30/2017,T21A,10T,TA,A,4,0.9,"24,226.00",21803.4,11119.73,6.67
+Guidance Counselor/10 month,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"52,288.00",52288,52288,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+Online Course Instructor,EA,10/4/2016-6/30/2017,,,GRP6,NA,,1,0,0,0,7.25
+Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,N/A,4,1,"32,605.00",32605,32605,8
+Account Clerk Typist,SS,7/1/2016-EndOfYear,26PY,12M,STEN,N/A,8,1,"28,984.00",28984,28984,8
+School Aide (03),SS,6/16/2017-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,378.59,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12833.25,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,8,0.75,"18,122.00",13591.5,13591.5,8
+Financial  & Operation System Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"58,544.00",58544,58544,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,2,0.75,"16,546.00",12409.5,12409.5,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,2,0.75,"16,546.00",12409.5,12409.5,8
+Teacher Assistant SE,SS,9/1/2016-6/30/2017,T21A,10T,TA,A,7,0.9,"25,322.00",22789.8,22789.8,6.67
+Messenger,SS,7/1/2016-EndOfYear,26PY,12M,TYP,OFF,10,1,"29,764.00",29764,29764,8
+Sr. Application Support Services Asst.,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,3,1,"46,057.00",46057,46057,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,03,1,"58,638.00",58638,58638,7.25
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,N/A,7,1,"26,680.00",26680,26680,8
+Occupational Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",49122,49122,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,11,1,"46,887.00",51247,51247,7.25
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,010,1,"52,887.00",52887,52887,7.25
+Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",53776,53776,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"32,809.00",32809,32809,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,015,1,"48,786.00",48786,48786,7.25
+Library Media Specialist,NONC,9/1/2016-EndOfYear,T26A,10T,CORD,NA,,1,"58,867.00",58867,58867,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,4,1,"44,759.00",48615,48615,7.25
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,OFF,10,1,"28,104.00",28104,28104,8
+Cleaner,SS,7/1/2016-EndOfYear,26PY,12M,LAB,N/A,5,1,"25,921.00",25921,25921,8
+School Aide,SS,9/1/2016-11/4/2016,T21A,10T,AIDE,A,6,0.75,"17,611.00",13208.25,2905.83,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+Payroll Specialist,NREP,7/1/2016-EndOfYear,26PY,12M,CONF,NA,,1,"35,983.00",35983,35983,8
+Fiscal Manager,NREP,7/18/2016-EndOfYear,26PY,12M,CONF,NA,,1,"56,000.00",56000,53630.77,8
+Computer Services Assistant,SS,7/1/2016-EndOfYear,26PY,12M,CSA,N/A,3,1,"32,150.00",32150,32150,8
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
+School Aide (02),SS,3/22/2017-EndOfYear,T26A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,4290.63,8
+Sr Account Clerk,SS,7/1/2016-EndOfYear,26PY,12M,BMM,OFF,10,1,"34,165.00",34165,34165,8
+Student Services Specialist,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"62,026.00",62026,62026,8
+Shared Data Coordinator,NONC,7/1/2016-8/19/2016,26PY,12M,CORD,NA,,1,"66,723.00",66723,9238.57,8
+Coord Technology,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"79,181.00",79181,79181,8
+Information Technology Network Tech,SS,3/31/2017-EndOfYear,26PY,12M,CSA,OFF,9,1,"35,137.00",35137,8784.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+Instructor Physical Education,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,8,1,"45,717.00",49069,49069,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,2,0.75,"16,546.00",12409.5,12409.5,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,10,1,"46,211.00",46211,46211,7.25
+School Lunch Manager,NREP,7/1/2016-EndOfYear,26PY,12M,OTHR,NA,,1,"51,500.00",51500,51500,8
+Info Tech Network Analyst I,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,8,1,"49,590.00",49590,49590,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,1,0.75,"16,273.00",12205,12205,8
+Physical Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,015,1,"48,786.00",52831,52831,7.25
+Speech Therapist,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",54902,54902,7.25
+Shared Data Coordinator,NONC,7/1/2016-6/30/2017,26PY,12M,CORD,NA,,1,"68,495.00",68495,68495,8
+Speech Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,10,1,"46,211.00",50067,50067,7.25
+Sr Computer Ser Asst,SS,7/1/2016-EndOfYear,26PY,12M,SCSA,N/A,8,1,"49,590.00",49590,49590,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
+Instructor Vocational/TCE,EA,9/1/2016-EndOfYear,T26A,10T,TCH,B,00,1,"62,949.00",63781,63781,7.25
+School Aide,SS,2/27/2017-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,5338.2,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,6,0.75,"17,611.00",13208.25,13208.25,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+Psychologist,EA,9/1/2016-EndOfYear,T21A,10T,GRP2,NA,,1,"49,817.00",49817,49817,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12833.25,8
+Instructor /Clinical-Health Dimensions,EA,10/28/2016-6/15/2017,,,TCH,B,016,0,33.22,0,0,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,1,0.75,"16,273.00",12205,12205,8
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,5,0.75,"17,360.00",13020,13020,8
+Instructor ESOL,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,5,0.9,"45,137.00",43583.4,43583.4,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T21A,10T,TCH,A,9,1,"45,984.00",49273,49273,7.25
+School Aide,SS,10/27/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,10459.11,8
+School Aide,SS,11/8/2016-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,10726.95,8
+Online Course Instructor,EA,7/1/2016-6/30/2017,,,GRP6,NA,,0,0,0,0,7.25
+Teacher Assistant SE,SS,11/21/2016-6/30/2017,T21A,10T,TA,B,9,0.9,"26,165.00",23548.5,17425.93,6.67
+Computer Services Assistant,SS,8/1/2016-EndOfYear,26PY,12M,CSA,N/A,8,1,"34,499.00",34499,31845.23,8
+Secretary I,NREP,8/15/2016-EndOfYear,26PY,12M,CONF,NA,,1,"39,000.00",39000,34500,8
+Occupational Therapist,EA,9/1/2016-EndOfYear,T21A,10T,TCH,B,014,1,"49,261.00",49261,49261,7.25
+Instructor Vocational/TCE,EA,9/1/2016-6/30/2017,T26A,10T,TCH,B,02.1,1,"58,188.00",58188,58188,7.25
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,4,1,"44,759.00",45704,45704,7.25
+School Social Worker-10 Month,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,12,1,"47,527.00",50816,50816,7.25
+School Aide,SS,9/1/2016-EndOfYear,T21A,10T,AIDE,A,3,0.75,"16,826.00",12619.5,12619.5,8
+Instructor Spec Ed,EA,9/1/2016-EndOfYear,T26A,10T,TCH,A,7,1,"45,493.00",51504,51504,7.25
+Instructor Spec Ed,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,2,1,"44,028.00",46750,46750,7.25
+HVAC Serv Engineer,SS,9/6/2016-EndOfYear,26PY,12M,HVAC,OFF,22,1,"55,713.00",55713,45641.8,8
+Instructor Vocational/TCE,EA,9/1/2016-6/30/2017,T21A,10T,TCH,A,7,0.5,"45,493.00",22746.5,22746.5,7.25
+School Aide,SS,9/1/2016-EndOfYear,T26A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,13841.25,8
+School Aide (02),SS,6/15/2017-EndOfYear,T21A,10T,AIDE,B,9,0.75,"18,455.00",13841.25,484.47,8
+Instructor Spec Ed,EA,9/29/2016-EndOfYear,T26A,10T,TCH,B,012,1,"51,046.00",58359,53196.7,7.25
+Building Maintenance Assistant,SS,9/15/2016-EndOfYear,26PY,12M,BMA,OFF,9,1,"28,893.00",28893,23001.27,8
+School Aide,SS,9/19/2016-EndOfYear,T21A,10T,AIDE,A,4,0.75,"17,111.00",12833.25,12191.63,8
+Messenger,SS,10/3/2016-EndOfYear,26PY,12M,TYP,N/A,8,1,"28,669.00",28669,21391.48,8
+Typist T/PT,NONE,10/3/2016-6/30/2017,,12M,,,,0,10.5,0,0,8
+Computer Services Assistant (02),SS,1/27/2017-EndOfYear,26PY,12M,CSA,N/A,8,1,"34,499.00",34499,14595.73,8
+Instructor Spec Ed,EA,10/26/2016-EndOfYear,T21A,10T,TCH,A,9,1,"45,984.00",48706,39938.92,7.25
+Occupational Therapist,EA,10/17/2016-EndOfYear,T21A,10T,TCH,B,012,1,"51,046.00",51046,43389.1,7.25
+Messenger,SS,10/18/2016-EndOfYear,26PY,12M,TYP,N/A,8,1,"28,669.00",28669,20178.56,8
+"Instructor, High School Eqivalency",EA,11/28/2016-6/30/2017,26PY,12M,GRP4,NA,,1,"52,017.00",52017,30810.07,8
+Instructor Vocational/TCE,EA,1/10/2017-6/30/2017,T21A,10T,TCH,B,015,1,"48,786.00",48786,27808.02,7.25
+Occupational  Therapist Intern,NONE,1/3/2017-3/24/2017,,,OTHR,NA,,1,0,0,0,7.25
+Instructor ESOL,EA,1/3/2017-6/30/2017,T21A,10T,TCH,A,1,0.6,"43,387.00",27430.8,16321.32,7.25
+School Aide,SS,1/27/2017-6/30/2017,T21A,10T,AIDE,A,0,0.75,"16,005.00",12003.75,6181.94,8
+Account Clerk Typist,SS,1/23/2017-EndOfYear,26PY,12M,STEN,OFF,14,1,"32,224.00",32224,14128.98,8
+Psychologist,EA,2/27/2017-EndOfYear,T21A,10T,GRP2,NA,,1,"54,000.00",54000,22140,7.25
+Speech Therapist,EA,2/27/2017-EndOfYear,T21A,10T,TCH,A,12,1,"47,527.00",51698,21196.2,7.25
+Laborer,SS,3/31/2017-EndOfYear,26PY,12M,LAB,OFF,9,1,"27,569.00",27569,6997.98,8
+Sr Account Clerk,SS,6/7/2017-EndOfYear,26PY,12M,BMM,OFF,19,1,"40,225.00",40225,2775.06,8
+473,Grand Total,"17,316,053.16",,,,,,,,,,
+Ver. 26.01.12.2430,,,,,,,,,,,,

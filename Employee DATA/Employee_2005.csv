@@ -1,219 +1,219 @@
-﻿Name,Job.Title.2005,"Cal.
+﻿Job.Title.2005,"Cal.
 Code",Name,Position,Effective.2005,Schd.,Grd.,Step,FTE,Pay.2005,Adjusted.2005,Prorated,Hrs/Dy
-"Avedisian, Linda M.",Physical Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",38893,38893,7.25
-"Cornwell, William",Bldg Maint Mechanic,SS,1/18/2005-EndOfYear,12,12M,BMM,N/A,6,1,"26,762.00",26762,12145.74,8
-"Smith Jr., Robert G.",Stock Clerk,SS,7/1/2004-EndOfYear,12,12M,CSA,N/A,7,1,"28,630.00",28630,28630,8
-"Record, David W.",School Aide (02),SS,3/14/2005-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,3956.18,8
-"Green, Tracy A.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T26,10T,TA,A,7,1,"21,264.00",21264,21264,6.67
-"Eckdahl, Kelli",CoordLAKENetOnlinePr,NREP,7/1/2004-EndOfYear,12,12M,CORD,NA,,1,"54,392.00",54392,54392,8
-"Owen, Lita A.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,6,1,"20,846.00",21113,21113,6.67
-"Ginsberg, Jeffrey",WIDE ARE NETWORK MANAGER,AA,7/1/2004-EndOfYear,12,12M,ADM,NA,,1,"81,844.00",81844,81844,8
-"Adams, Dawn",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,10,0.75,"15,787.00",11840,11840,8
-"Rittenhouse, Dawn M.",Speech Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,01,1,"43,946.00",46739,46739,7.25
-"Raes, Suzanne M.",Sr Acct Clerk Typist (02),SS,1/1/2005-EndOfYear,12,12M,BMM,N/A,7,1,"27,296.00",27296,13542.42,8
-"Valliere, Shane M.",Instr Phys Ed,EA,9/1/2004-EndOfYear,T26,10T,TCH,A,1,1,"34,261.00",34261,34261,7.25
-"Cardinale, Mona S.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,94,1,"50,906.00",53642,53642,7.25
-"Tiffany, Jeremy D.",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,A,8,1,"21,689.00",21689,21689,6.67
-"Comella, Elise B.",Instructional Asst,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",42028,42028,7.25
-"Featherly, Diana L.",Secretary I,NREP,7/1/2004-EndOfYear,12,12M,CONF,NA,,1,"29,079.00",29079,29079,8
-"Tachco, Cheryl",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,91,1,"54,709.00",59383,59383,7.25
-"Saltzer, Ann M.",Stenographer,SS,7/1/2004-EndOfYear,12,12M,STEN,OFF,19,0.8,"34,225.00",27712.8,27712.8,8
-"Dimon, Barb",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,B,15,0.93,"18,073.00",16913,16913,8
-"Kaper, Tracy M.",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,B,10,1,"22,703.00",22703,22703,6.67
-"Buck, James A.",Instructor Voc,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,01,1,"43,946.00",43946,43946,7.25
-"DeCocq, Linda",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,B,17,1,"25,328.00",25595,25595,6.67
-"Owens, Amy L.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,7,1,"21,264.00",21264,21264,6.67
-"Ross, Stephanie B.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,19,0.75,"19,903.00",15167,15167,8
-"Hullings, Tina",Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"46,682.00",46682,46682,7.25
-"Gavette, Randy L.",Bldg Maint Assistant,SS,7/1/2004-EndOfYear,12,12M,BMA,OFF,15,1,"28,652.00",29068,29068,8
-"Brockhuizen, Lisa",Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"57,092.00",57092,57092,7.25
-"Hunter-Harrington, Vicki S.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T26,10T,TA,A,7,1,"21,264.00",21531,21531,6.67
-"Elliott, David J.",Sr Network Analyst,SS,7/1/2004-EndOfYear,12,12M,SNET,OFF,10,1,"65,408.00",65408,65408,8
-"Buchiere, Thomas P.",Speech Therapist,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,96,1,"48,721.00",51001,51001,7.25
-"Karns, Michael J.",Instr Phys Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,6,1,"36,980.00",38918,38918,7.25
-"Jensen, Teresa",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,6,1,"20,846.00",20846,20846,6.67
-"Pryor, Yvonne M.",Sr Acct Clerk Typist,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,15,1,"33,813.00",36813,36813,8
-"Yeoman II, Richard L.",SNR APPL SUPPORT SERVICES ASSIST,SS,4/11/2005-EndOfYear,12,12M,SCSA,N/A,0,1,"36,310.00",36310,8239.35,8
-"Sacheli, Allison",Psychologist (02),EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"43,710.00",43710,43710,7.25
-"Brosius, Daniel W.",Bldg Maint Mechanic,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,10,1,"28,976.00",28976,28976,8
-"Cook, Donald A.",Cleaner,SS,7/1/2004-EndOfYear,12,12M,LAB,OFF,12,1,"24,974.00",24974,24974,8
-"East, Beverly A.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,15,0.75,"18,073.00",13555,13555,8
-"Thompson, Pauline C.",Sr Account Clerk,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,11,1,"29,560.00",29560,29560,8
-"Bodine, Janet M.",Secretary I,SS,7/1/2004-EndOfYear,10JS,10MS,STEN,OFF,19,1,"34,225.00",34641,29312,8
-"Hill, Kenneth R.",Sr Computer Ser Asst,SS,7/1/2004-EndOfYear,12,12M,SCSA,N/A,8,1,"43,314.00",43314,43314,8
-"Chappell, Thomas W.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,8,1,"21,689.00",21689,21689,6.67
-"Adams, Nicki L.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,9,1,"38,893.00",41344,41344,7.25
-"Soper, Janet",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T26,10T,TA,B,10,1,"22,703.00",22703,22703,6.67
-"Gabriel, Glenna J.",Licensed Pract Nurse,SS,7/1/2004-EndOfYear,T21,10T,TA,B,9,1,"22,205.00",22205,22205,6.67
-"Coons, Diane W.",Sr Acct Clerk Typist,SS,12/6/2004-EndOfYear,12,12M,BMM,OFF,11,1,"29,560.00",29560,16939.81,8
-"Hogan, Nicholas",Speech Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,90,1,"58,819.00",61783,61783,7.25
-"Monson, Allene",Sr Computer Ser Asst,SS,7/1/2004-EndOfYear,12,12M,SCSA,OFF,13,1,"50,599.00",51015,51015,8
-"Pettit, Cynthia C.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,16,0.75,"18,541.00",14146,14146,8
-"Decker, Joseph A.",Teacher Asst SE,SS,7/1/2004-1/12/2005,T21,10T,TA,A,7,1,"21,264.00",21264,9356.16,6.67
-"Benedict, Scott W.",Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,93,1,"52,058.00",53768,53768,7.25
-"Skellett, William L.",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,B,23,1,"26,923.00",27190,27190,6.67
-"Scott, Carol G.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,01,1,"43,946.00",46568,46568,7.25
-"Marconi-Rowley, Deanna L.",Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"44,168.00",44168,44168,7.25
-"Fitzgerald-Salone, Shawn",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",42199,42199,7.25
-"Chase, Lelana A.",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,5,0.75,"14,281.00",10711,10711,8
-"Lee, Brenda G.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,17,0.75,"19,016.00",14502,14502,8
-"Brooks, Roger L.",Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,12,1,"40,293.00",40293,40293,7.25
-"DeSalvo, Andrea",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",41004.5,41004.5,7.25
-"Bogart, Kathryn A.",Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",38893,38893,7.25
-"Drooby, David A.",Bldg Maint Mechanic,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,19,1,"38,777.00",40693,40693,8
-"Rosati, Sharon W.",School Social Worker-10 Month,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,98,1,"46,742.00",50903,50903,7.25
-"Loncosky, Laurie L.",Instructor Voc,EA,7/1/2004-8/31/2004,,,TCH,B,02,1,"39,984.00",39984,0,7.25
-"Ingersoll, Erin M.",Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,5,1,"36,302.00",36302,36302,7.25
-"Ryan, Lori A.",Speech Therapist,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,01,1,"43,946.00",47081,47081,7.25
-"Goodman, Rebecca G.",Instructional Asst (04),EA,7/1/2004-EndOfYear,T26,10T,TCH,B,98,1,"46,742.00",50789,50789,7.25
-"Laursen, Mary A.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
-"Kuhn, Chester",Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,03,1,"41,703.00",43413,43413,7.25
-"Surphlis, Kara",School Social Worker-10 Month,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,11,1,"39,873.00",44034,44034,7.25
-"Betts, Nicole A.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
-"Smith, Cynthia L.",Licensed Pract Nurse,SS,7/1/2004-EndOfYear,T26,10T,TA,B,10,1,"22,703.00",22916.6,22916.6,6.67
-"Clement, Lauri A.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,96,1,"48,721.00",52084,52084,7.25
-"Colucci, Tracy L.",School Social Worker-10 Month,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,01,1,"43,946.00",46568,46568,7.25
-"Bruzda, Shawn M.",Cleaner,SS,7/1/2004-EndOfYear,12,12M,LAB,OFF,13,1,"25,554.00",25554,25554,8
-"DeBell, Louise",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,11,0.75,"16,203.00",12152,12152,8
-"Brockhuizen, Todd",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",42199,42199,7.25
-"Perkins, Mary W.",Occupational Therapist (02),EA,7/1/2004-EndOfYear,T21,10T,TCH,A,4,1,"35,668.00",41539,41539,7.25
-"Byrne, Malinda G.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,11,1,"39,873.00",44376,44376,7.25
-"Cerneskie, Anthony D.",Speech Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,00,1,"44,770.00",47335,47335,7.25
-"Schwingle, Kathleen F.",Sr Computer Ser Asst,SS,7/1/2004-EndOfYear,12,12M,SCSA,N/A,5,1,"39,688.00",39688,39688,8
-"Markgraf, Kelly M.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,7,1,"21,264.00",21264,21264,6.67
-"Spear, Deanne A.",Physical Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,96,0.5,"48,721.00",24360.5,24360.5,7.25
-"Campo, William N.",Coordinator of Multimedia Development,NREP,7/1/2004-EndOfYear,12,12M,CORD,NA,,1,"61,367.00",61367,61367,8
-"Boylan-Weaver, Deborah",Teacher Asst SE,SS,7/1/2004-6/30/2005,T26,10T,TA,A,1,0.9,"19,047.00",17142.3,17142.3,6.67
-"Marasco, Stacy E.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",40577,40577,7.25
-"Donahue, T. Paul",SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
-"Bement, Krista A.",Speech Therapist (02),EA,12/20/2004-EndOfYear,T26,10T,TCH,A,4,1,"35,668.00",36010,22866.35,7.25
-"Timmerman, Kevin G.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
-"Case, Carrie F.",Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"44,168.00",44168,44168,7.25
-"Korzeniewski, Jolene P.",Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"43,412.00",43412,43412,7.25
-"Casteline, James P.",Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"43,412.00",43412,43412,7.25
-"Nielson, Mary Ann",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Decker, Christine M.",Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"43,412.00",43412,43412,7.25
-"Zadarlik, Sharon",Secretary I,SS,7/1/2004-EndOfYear,12,12M,STEN,OFF,13,1,"28,717.00",28717,28717,8
-"Johnson, Jennifer A.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
-"Eaton, Jacqueline R.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,10,0.75,"15,787.00",11840,11840,8
-"Penner, Kevin M.",Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",37613,37613,7.25
-"Sculli, Tiffany M.",Instructor Voc,EA,9/1/2004-6/30/2005,T26,10T,TCH,A,2,0.5,"34,695.00",17347.5,17347.5,7.25
-"Albright, Michelle L.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,3,1,"19,706.00",19706,19706,6.67
-"Smith, Sharon D.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,10,1,"39,555.00",42519,42519,7.25
-"Baker, David B.",Bldg Maint Mechanic,SS,7/1/2004-EndOfYear,12,12M,BMM,N/A,7,1,"27,296.00",27296,27296,8
-"Bosje, Brad R.",Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"41,932.00",41932,41932,7.25
-"Schmandt, Thomas P.",SUMMER DRIVER EDUCATION INSTRUCTOR,,7/5/2004-8/18/2004,,,,,,0,27,0,0,7.25
-"Sweeting, Tyler J.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,5,1,"36,302.00",36644,36644,7.25
-"Schenk, Jennifer A.",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,5,0.75,"14,281.00",10711,10711,8
-"Verbridge, Matthew J.",Physical Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,3,1,"35,034.00",35034,35034,7.25
-"Elliott, Laurie A.",SUMMER ACADEMIC,,7/1/2004-8/19/2004,,,,,,0,25,0,0,7.25
-"Stephens, Christine B.",Summer School Teacher,EA,7/6/2004-8/13/2004,SUM4,SUMS,TCH,,,0.23,"2,011.44",2011.44,2011.44,7.25
-"Stuck, Kathleen A.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Rogers, Amy L.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Boldt, Peter S.",Bus/Comm Liaison 12 Mo,EA,7/1/2004-EndOfYear,12,12M,GRP4,NA,,1,"45,896.00",45896,45896,7.25
-"Thibault, Deborah L.",Coord Resource,EA,7/1/2004-EndOfYear,12,12M,GRP3,NA,,1,"52,375.00",52375,52375,8
-"Morrison, Bonnie J.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,6,1,"36,980.00",39944,39944,7.25
-"Landry, Maria S.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Sessler, Pamela A.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
-"Steiner, Matthew W.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,7,1,"37,613.00",40748,40748,7.25
-"Necessary, Kimberley M.",Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",39152,39152,7.25
-"Maselbas, Patti F.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,4,0.75,"14,027.00",10520,10520,8
-"Lasher, Melissa L.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,11,0.75,"16,203.00",12152,12152,8
-"Ebeling, Matthew J.",Coord Tech Services,NREP,7/1/2004-EndOfYear,12,12M,CORD,NA,,1,"73,717.00",73717,73717,8
-"Renahan, John",information tech net analyst II,SS,7/1/2004-EndOfYear,12,12M,SNET,N/A,2,1,"55,955.00",55955,55955,8
-"Strong, Stacey L.",Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
-"Rotz, Martin D.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Brown, Roger C.",SUMMER DRIVER EDUCATION INSTRUCTOR,,7/12/2004-8/18/2004,,,,,,0,27,0,0,7.25
-"Tuck, Erin L.",Teacher Asst SE,SS,7/1/2004-6/30/2005,T21,10T,TA,A,3,0.9,"19,706.00",17735.4,17735.4,6.67
-"Bradshaw, Mary M.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,4,0.75,"14,027.00",10520,10520,8
-"Pulcini, Susan M.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,9,0.75,"15,431.00",11573,11573,8
-"Switzer, Nancy S.",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T26,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
-"Crawley, Patrick M.",Instructor Alt Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,7,1,"37,613.00",37841,37841,7.25
-"Gagnon, Linda V.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,5,0.75,"14,281.00",10711,10711,8
-"House, Karrie L.",Teacher Asst SE (02),SS,3/14/2005-EndOfYear,T21,10T,TA,A,3,1,"19,706.00",19706,6995.63,6.67
-"Venuti, Amanda C.",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
-"House, Peter G.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",44764,44764,7.25
-"Ingerick, Kimberly A.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Holowka Jr, Gary S.",SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
-"Stone, Lisa M.",Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,5,1,"36,302.00",36302,36302,7.25
-"Gordon, Marc D.","Instructor, Wayne County Jail",EA,7/1/2004-6/30/2005,12,12M,GRP4,NA,,1,"37,077.00",37077,37077,8
-"Holzapfel, Vanessa E.",Teacher Asst SE (02),SS,7/1/2004-EndOfYear,T21,10T,TA,A,2,1,"19,328.00",19328,19328,6.67
-"McConnell, Da-Vida M.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Smyth, Jenifer H.",Instructor Voc,EA,7/1/2004-6/30/2005,T21,10T,TCH,A,8,0.6,"38,247.00",24418.8,24418.8,7.25
-"O'Hora, Jacqueline A.",Secretary I,SS,7/1/2004-EndOfYear,12,12M,STEN,OFF,20,1,"35,263.00",35263,35263,8
-"Marcano, Susan S.",Web Developer,SS,5/10/2005-EndOfYear,12,12M,,,,1,"45,926.00",45926,6712.32,8
-"Wandell, Patti",Sr Acct Clerk Typist,SS,12/21/2004-EndOfYear,12,12M,BMM,N/A,5,1,"26,238.00",26238,13926.96,8
-"VanLare, Jennifer M.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
-"Richmond, Olga M.",Typist-12 Month,SS,7/1/2004-EndOfYear,12,12M,TYP,N/A,8,1,"24,170.00",24170,24170,8
-"Hauf, Jacque L.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Hall Jr., Robert",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",41344,41344,7.25
-"Liberati, Allison M.",Typist-12 Month XX,NREP,7/1/2004-EndOfYear,12,12M,CONF,NA,,1,"25,895.00",25895,25895,8
-"Edelman, Christopher E.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,8,1,"38,247.00",38247,38247,7.25
-"Halsey, Stephanie A.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,2,0.75,"13,505.00",10129,10129,8
-"Ogrodowski, Bobbie J.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
-"Enderlin, Darlene Y.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Smith, Colleen F.",School Aide,SS,7/1/2004-8/31/2004,T21,10T,AIDE,A,3,1,"9,970.00",0,0,6
-"Zerbe-Brandt, Joan R.",Teacher Asst Voc,SS,11/15/2004-EndOfYear,T21,10T,TA,A,8,1,"21,689.00",21689,16266.7,6.67
-"McVey, Andrew",Instructional Asst,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,5,1,"36,302.00",39266,39266,7.25
-"Buttaccio, Mary M.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,11,0.75,"16,203.00",12152,12152,8
-"Franke, Rebecca A.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
-"Robords, Dawn",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,4,1,"35,668.00",39487,39487,7.25
-"Chetney, Sara E.",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Edelman, Susan E.",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
-"Martyniuk, Tricia P.",Instructor Spec Ed (02),EA,11/1/2004-EndOfYear,T26,10T,TCH,A,2,1,"34,695.00",37773,30218.4,7.25
-"Koudelka McDonald, Joy",Physical Therapist,EA,7/1/2004-5/25/2005,T21,10T,TCH,A,6,0.6,"36,980.00",25368.6,22324.36,7.25
-"Jones, Amy L.",Teacher Asst Voc,SS,7/1/2004-EndOfYear,T26,10T,TA,A,6,1,"20,846.00",20846,20846,6.67
-"D'Arduini, Danielle M.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
-"Hannan, Kimberley P.",SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
-"Bonafede, Daniel J.",SUMMER ACADEMIC,,7/1/2004-8/18/2004,,,,,,0,25,0,0,7.25
-"Horton, Eric E.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Doell, Peter C.",ClinSocialWorker/Case Manager,EA,7/1/2004-EndOfYear,12,12M,GRP4,NA,,1,"50,084.00",50084,50084,8
-"Conklin, Sheri D.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
-"Carr, Kristen E.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,3,1,"35,034.00",35034,35034,7.25
-"Littlefield, Carrie L.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
-"Metz, Hazel R.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,4,0.75,"14,027.00",10520,10520,8
-"Congdon, Kimberly A.",School Aide,SS,7/1/2004-6/13/2005,T21,10T,AIDE,A,3,0.75,"13,769.00",10326.75,9835.2,8
-"Best, Tammi S.",School Aide,SS,2/28/2005-6/30/2005,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,3972.75,8
-"Perrin, Michelle E.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
-"Newman, Matthew P.",Instructor Voc,EA,9/1/2004-EndOfYear,T21,10T,TCH,A,12,1,"40,293.00",40293,40293,7.25
-"Haeusing, Robert",Instructor Voc,EA,7/1/2004-6/30/2005,T21,10T,TCH,A,2,1,"34,695.00",35721,35721,7.25
-"Ostroski, Jeffrey J.",SUMMER DRIVER EDUCATION INSTRUCTOR,,7/1/2004-8/6/2004,,,,,,0,27,0,0,7.25
-"Burgess, John J.",SUMMER DRIVER EDUCATION INSTRUCTOR,,7/5/2004-8/18/2004,,,,,,0,27,0,0,7.25
-"Patchen, Theresa B.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Herron, Jason M.",SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
-"Kerrick, Lisa L.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
-"Howard, Karen M.",Home Tutor,,9/1/2004-6/30/2005,,,,,,0,14,0,0,7.25
-"Power, Catherine A.",School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,2,0.75,"13,505.00",10129,10129,8
-"Baker, Hanna M.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,3,1,"35,034.00",38169,38169,7.25
-"Staiger, Ann T.",On Line  Course Instructor,EA,7/1/2004-6/30/2005,,10T,GRP6,NA,,0,0,0,0,7.25
-"Tanner, Elizabeth M.",Cleaner,SS,7/1/2004-EndOfYear,12,12M,LAB,N/A,1,1,"20,079.00",20079,20079,8
-"Kelly, Margaret",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,8,0.75,"15,155.00",11366,11366,8
-"Wood, Karen E.",School Aide (02),SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,1,0.75,"13,309.00",9982,9982,8
-"LeVesque-Alampi, Michelle",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
-"Wilbur, Andrew V.",School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,2,0.75,"13,505.00",10129,10129,8
-"Joseph, Michele L.",School Aide,SS,9/1/2004-EndOfYear,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,9809,8
-"Morone, Michael R.",On Line  Course Instructor,EA,7/1/2004-6/30/2005,,10T,GRP6,NA,,0,0,0,0,7.25
-"Spiegel, Denise R.",Computer Serv Asst,SS,7/1/2004-EndOfYear,12,12M,CSA,N/A,8,1,"29,201.00",29201,29201,8
-"Donahue, Peggy L.",SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
-"Hoody, Karen L.",SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
-"Elliott, Kelly G.",SUMMER ACADEMIC,,7/7/2004-8/20/2004,,,,,,0,34,0,0,7.25
-"Watson, Jennifer",SUMMER ACADEMIC,,7/7/2004-8/20/2004,,,,,,0,34,0,0,7.25
-"Tenney III, Vernon S.",SUMMER ACADEMIC,,7/7/2004-8/20/2004,,,,,,0,34,0,0,7.25
-"Timmerman, Deana N.",Psychologist Intern,,9/1/2004-6/30/2005,T21,10T,OTHR,NA,,1,"15,000.00",15000,15000,7.25
-"Smith, Heather A.",Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,2,1,"34,695.00",34695,34695,7.25
-"Alexander, Thomas W.",Instructor Alt Suspe,EA,9/8/2004-6/30/2005,T21,10T,,,,0,22.8,0,0,7.25
-"Alfieri, Stefanie J.",Instr Phys Ed,EA,9/1/2004-EndOfYear,T26,10T,TCH,A,4,1,"35,668.00",38632,38632,7.25
-"Mattice, Lynn A.",School Aide,SS,9/1/2004-EndOfYear,T21,10T,AIDE,A,1,0.75,"13,309.00",9982,9982,8
-"Liberati, Elizabeth J.",School Aide,SS,11/8/2004-EndOfYear,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,7601.95,8
-"Smith, Adam Z.",School Counselor,EA,10/26/2004-EndOfYear,T21,10T,GRP2,NA,,1,"38,743.00",38743,31769.28,7.25
-"Bortle, Velvet L.",School Aide,SS,1/3/2005-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10326.75,6196.05,8
-"Dragos, Daniel O.",Comp Systems Analyst,SS,11/29/2004-EndOfYear,12,12M,WEB,OFF,11,1,"53,262.00",53262,31546.9,8
-"Laird, Theresa M.",Case Mgr/Career Coun,EA,11/30/2004-6/30/2005,12,12M,GRP4,NA,,1,"36,000.00",36000,21184.38,8
-"Serapilio, Betsy A.",Staff Dev Trainer,NREP,1/4/2005-EndOfYear,12,12M,CORD,NA,,1,"68,500.00",68500,33722.88,8
-"Buel, Amy J.",School Counselor (02),EA,1/31/2005-6/30/2005,T21,10T,GRP2,NA,,1,"38,743.00",38743,19565.22,7.25
-"Contario, Tonya M.",School Aide,SS,3/28/2005-6/30/2005,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,3138.98,8
-"Frasca, Lynda A.",School Aide (02),SS,3/14/2005-6/30/2005,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,3665.96,8
-"Braun, Linda A.",Instructor Spec Ed,EA,3/14/2005-6/30/2005,T21,10T,TCH,A,3,1,"35,034.00",41874,14865.27,7.25
-"Munson, Karen M.",Physical Therapist,EA,5/16/2005-6/30/2005,T21,10T,TCH,B,97,0.8,"47,565.00",38052,5707.76,7.25
-Total Count,215,Grand Total,"5,253,724.10",,,,,,,,,,
-WinCap,Ver. 26.01.12.2430,,,,,,,,,,,,
+Physical Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",38893,38893,7.25
+Bldg Maint Mechanic,SS,1/18/2005-EndOfYear,12,12M,BMM,N/A,6,1,"26,762.00",26762,12145.74,8
+Stock Clerk,SS,7/1/2004-EndOfYear,12,12M,CSA,N/A,7,1,"28,630.00",28630,28630,8
+School Aide (02),SS,3/14/2005-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,3956.18,8
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T26,10T,TA,A,7,1,"21,264.00",21264,21264,6.67
+CoordLAKENetOnlinePr,NREP,7/1/2004-EndOfYear,12,12M,CORD,NA,,1,"54,392.00",54392,54392,8
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,6,1,"20,846.00",21113,21113,6.67
+WIDE ARE NETWORK MANAGER,AA,7/1/2004-EndOfYear,12,12M,ADM,NA,,1,"81,844.00",81844,81844,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,10,0.75,"15,787.00",11840,11840,8
+Speech Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,01,1,"43,946.00",46739,46739,7.25
+Sr Acct Clerk Typist (02),SS,1/1/2005-EndOfYear,12,12M,BMM,N/A,7,1,"27,296.00",27296,13542.42,8
+Instr Phys Ed,EA,9/1/2004-EndOfYear,T26,10T,TCH,A,1,1,"34,261.00",34261,34261,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,94,1,"50,906.00",53642,53642,7.25
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,A,8,1,"21,689.00",21689,21689,6.67
+Instructional Asst,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",42028,42028,7.25
+Secretary I,NREP,7/1/2004-EndOfYear,12,12M,CONF,NA,,1,"29,079.00",29079,29079,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,91,1,"54,709.00",59383,59383,7.25
+Stenographer,SS,7/1/2004-EndOfYear,12,12M,STEN,OFF,19,0.8,"34,225.00",27712.8,27712.8,8
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,B,15,0.93,"18,073.00",16913,16913,8
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,B,10,1,"22,703.00",22703,22703,6.67
+Instructor Voc,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,01,1,"43,946.00",43946,43946,7.25
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,B,17,1,"25,328.00",25595,25595,6.67
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,7,1,"21,264.00",21264,21264,6.67
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,19,0.75,"19,903.00",15167,15167,8
+Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"46,682.00",46682,46682,7.25
+Bldg Maint Assistant,SS,7/1/2004-EndOfYear,12,12M,BMA,OFF,15,1,"28,652.00",29068,29068,8
+Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"57,092.00",57092,57092,7.25
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T26,10T,TA,A,7,1,"21,264.00",21531,21531,6.67
+Sr Network Analyst,SS,7/1/2004-EndOfYear,12,12M,SNET,OFF,10,1,"65,408.00",65408,65408,8
+Speech Therapist,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,96,1,"48,721.00",51001,51001,7.25
+Instr Phys Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,6,1,"36,980.00",38918,38918,7.25
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,6,1,"20,846.00",20846,20846,6.67
+Sr Acct Clerk Typist,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,15,1,"33,813.00",36813,36813,8
+SNR APPL SUPPORT SERVICES ASSIST,SS,4/11/2005-EndOfYear,12,12M,SCSA,N/A,0,1,"36,310.00",36310,8239.35,8
+Psychologist (02),EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"43,710.00",43710,43710,7.25
+Bldg Maint Mechanic,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,10,1,"28,976.00",28976,28976,8
+Cleaner,SS,7/1/2004-EndOfYear,12,12M,LAB,OFF,12,1,"24,974.00",24974,24974,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,15,0.75,"18,073.00",13555,13555,8
+Sr Account Clerk,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,11,1,"29,560.00",29560,29560,8
+Secretary I,SS,7/1/2004-EndOfYear,10JS,10MS,STEN,OFF,19,1,"34,225.00",34641,29312,8
+Sr Computer Ser Asst,SS,7/1/2004-EndOfYear,12,12M,SCSA,N/A,8,1,"43,314.00",43314,43314,8
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,8,1,"21,689.00",21689,21689,6.67
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,9,1,"38,893.00",41344,41344,7.25
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T26,10T,TA,B,10,1,"22,703.00",22703,22703,6.67
+Licensed Pract Nurse,SS,7/1/2004-EndOfYear,T21,10T,TA,B,9,1,"22,205.00",22205,22205,6.67
+Sr Acct Clerk Typist,SS,12/6/2004-EndOfYear,12,12M,BMM,OFF,11,1,"29,560.00",29560,16939.81,8
+Speech Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,90,1,"58,819.00",61783,61783,7.25
+Sr Computer Ser Asst,SS,7/1/2004-EndOfYear,12,12M,SCSA,OFF,13,1,"50,599.00",51015,51015,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,16,0.75,"18,541.00",14146,14146,8
+Teacher Asst SE,SS,7/1/2004-1/12/2005,T21,10T,TA,A,7,1,"21,264.00",21264,9356.16,6.67
+Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,93,1,"52,058.00",53768,53768,7.25
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,B,23,1,"26,923.00",27190,27190,6.67
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,01,1,"43,946.00",46568,46568,7.25
+Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"44,168.00",44168,44168,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",42199,42199,7.25
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,5,0.75,"14,281.00",10711,10711,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,17,0.75,"19,016.00",14502,14502,8
+Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,12,1,"40,293.00",40293,40293,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",41004.5,41004.5,7.25
+Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",38893,38893,7.25
+Bldg Maint Mechanic,SS,7/1/2004-EndOfYear,12,12M,BMM,OFF,19,1,"38,777.00",40693,40693,8
+School Social Worker-10 Month,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,98,1,"46,742.00",50903,50903,7.25
+Instructor Voc,EA,7/1/2004-8/31/2004,,,TCH,B,02,1,"39,984.00",39984,0,7.25
+Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,5,1,"36,302.00",36302,36302,7.25
+Speech Therapist,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,01,1,"43,946.00",47081,47081,7.25
+Instructional Asst (04),EA,7/1/2004-EndOfYear,T26,10T,TCH,B,98,1,"46,742.00",50789,50789,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
+Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,03,1,"41,703.00",43413,43413,7.25
+School Social Worker-10 Month,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,11,1,"39,873.00",44034,44034,7.25
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
+Licensed Pract Nurse,SS,7/1/2004-EndOfYear,T26,10T,TA,B,10,1,"22,703.00",22916.6,22916.6,6.67
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,B,96,1,"48,721.00",52084,52084,7.25
+School Social Worker-10 Month,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,01,1,"43,946.00",46568,46568,7.25
+Cleaner,SS,7/1/2004-EndOfYear,12,12M,LAB,OFF,13,1,"25,554.00",25554,25554,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,11,0.75,"16,203.00",12152,12152,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",42199,42199,7.25
+Occupational Therapist (02),EA,7/1/2004-EndOfYear,T21,10T,TCH,A,4,1,"35,668.00",41539,41539,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,11,1,"39,873.00",44376,44376,7.25
+Speech Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,00,1,"44,770.00",47335,47335,7.25
+Sr Computer Ser Asst,SS,7/1/2004-EndOfYear,12,12M,SCSA,N/A,5,1,"39,688.00",39688,39688,8
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,7,1,"21,264.00",21264,21264,6.67
+Physical Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,B,96,0.5,"48,721.00",24360.5,24360.5,7.25
+Coordinator of Multimedia Development,NREP,7/1/2004-EndOfYear,12,12M,CORD,NA,,1,"61,367.00",61367,61367,8
+Teacher Asst SE,SS,7/1/2004-6/30/2005,T26,10T,TA,A,1,0.9,"19,047.00",17142.3,17142.3,6.67
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",40577,40577,7.25
+SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
+Speech Therapist (02),EA,12/20/2004-EndOfYear,T26,10T,TCH,A,4,1,"35,668.00",36010,22866.35,7.25
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
+Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"44,168.00",44168,44168,7.25
+Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"43,412.00",43412,43412,7.25
+Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"43,412.00",43412,43412,7.25
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+Psychologist,EA,7/1/2004-EndOfYear,T26,10T,GRP2,NA,,1,"43,412.00",43412,43412,7.25
+Secretary I,SS,7/1/2004-EndOfYear,12,12M,STEN,OFF,13,1,"28,717.00",28717,28717,8
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,10,0.75,"15,787.00",11840,11840,8
+Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",37613,37613,7.25
+Instructor Voc,EA,9/1/2004-6/30/2005,T26,10T,TCH,A,2,0.5,"34,695.00",17347.5,17347.5,7.25
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,3,1,"19,706.00",19706,19706,6.67
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,10,1,"39,555.00",42519,42519,7.25
+Bldg Maint Mechanic,SS,7/1/2004-EndOfYear,12,12M,BMM,N/A,7,1,"27,296.00",27296,27296,8
+Psychologist,EA,7/1/2004-EndOfYear,T21,10T,GRP2,NA,,1,"41,932.00",41932,41932,7.25
+SUMMER DRIVER EDUCATION INSTRUCTOR,,7/5/2004-8/18/2004,,,,,,0,27,0,0,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,5,1,"36,302.00",36644,36644,7.25
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,5,0.75,"14,281.00",10711,10711,8
+Physical Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,3,1,"35,034.00",35034,35034,7.25
+SUMMER ACADEMIC,,7/1/2004-8/19/2004,,,,,,0,25,0,0,7.25
+Summer School Teacher,EA,7/6/2004-8/13/2004,SUM4,SUMS,TCH,,,0.23,"2,011.44",2011.44,2011.44,7.25
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+Bus/Comm Liaison 12 Mo,EA,7/1/2004-EndOfYear,12,12M,GRP4,NA,,1,"45,896.00",45896,45896,7.25
+Coord Resource,EA,7/1/2004-EndOfYear,12,12M,GRP3,NA,,1,"52,375.00",52375,52375,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,6,1,"36,980.00",39944,39944,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,7,1,"37,613.00",40748,40748,7.25
+Instructor Voc,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,7,1,"37,613.00",39152,39152,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,4,0.75,"14,027.00",10520,10520,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,11,0.75,"16,203.00",12152,12152,8
+Coord Tech Services,NREP,7/1/2004-EndOfYear,12,12M,CORD,NA,,1,"73,717.00",73717,73717,8
+information tech net analyst II,SS,7/1/2004-EndOfYear,12,12M,SNET,N/A,2,1,"55,955.00",55955,55955,8
+Teacher Asst SE,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+SUMMER DRIVER EDUCATION INSTRUCTOR,,7/12/2004-8/18/2004,,,,,,0,27,0,0,7.25
+Teacher Asst SE,SS,7/1/2004-6/30/2005,T21,10T,TA,A,3,0.9,"19,706.00",17735.4,17735.4,6.67
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,4,0.75,"14,027.00",10520,10520,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,9,0.75,"15,431.00",11573,11573,8
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T26,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
+Instructor Alt Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,7,1,"37,613.00",37841,37841,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,5,0.75,"14,281.00",10711,10711,8
+Teacher Asst SE (02),SS,3/14/2005-EndOfYear,T21,10T,TA,A,3,1,"19,706.00",19706,6995.63,6.67
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T21,10T,TA,A,4,1,"20,074.00",20074,20074,6.67
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",44764,44764,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
+Occupational Therapist,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,5,1,"36,302.00",36302,36302,7.25
+"Instructor, Wayne County Jail",EA,7/1/2004-6/30/2005,12,12M,GRP4,NA,,1,"37,077.00",37077,37077,8
+Teacher Asst SE (02),SS,7/1/2004-EndOfYear,T21,10T,TA,A,2,1,"19,328.00",19328,19328,6.67
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+Instructor Voc,EA,7/1/2004-6/30/2005,T21,10T,TCH,A,8,0.6,"38,247.00",24418.8,24418.8,7.25
+Secretary I,SS,7/1/2004-EndOfYear,12,12M,STEN,OFF,20,1,"35,263.00",35263,35263,8
+Web Developer,SS,5/10/2005-EndOfYear,12,12M,,,,1,"45,926.00",45926,6712.32,8
+Sr Acct Clerk Typist,SS,12/21/2004-EndOfYear,12,12M,BMM,N/A,5,1,"26,238.00",26238,13926.96,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
+Typist-12 Month,SS,7/1/2004-EndOfYear,12,12M,TYP,N/A,8,1,"24,170.00",24170,24170,8
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,9,1,"38,893.00",41344,41344,7.25
+Typist-12 Month XX,NREP,7/1/2004-EndOfYear,12,12M,CONF,NA,,1,"25,895.00",25895,25895,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,8,1,"38,247.00",38247,38247,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,2,0.75,"13,505.00",10129,10129,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+School Aide,SS,7/1/2004-8/31/2004,T21,10T,AIDE,A,3,1,"9,970.00",0,0,6
+Teacher Asst Voc,SS,11/15/2004-EndOfYear,T21,10T,TA,A,8,1,"21,689.00",21689,16266.7,6.67
+Instructional Asst,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,5,1,"36,302.00",39266,39266,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,B,11,0.75,"16,203.00",12152,12152,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,4,1,"35,668.00",39487,39487,7.25
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
+Instructor Spec Ed (02),EA,11/1/2004-EndOfYear,T26,10T,TCH,A,2,1,"34,695.00",37773,30218.4,7.25
+Physical Therapist,EA,7/1/2004-5/25/2005,T21,10T,TCH,A,6,0.6,"36,980.00",25368.6,22324.36,7.25
+Teacher Asst Voc,SS,7/1/2004-EndOfYear,T26,10T,TA,A,6,1,"20,846.00",20846,20846,6.67
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
+SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
+SUMMER ACADEMIC,,7/1/2004-8/18/2004,,,,,,0,25,0,0,7.25
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+ClinSocialWorker/Case Manager,EA,7/1/2004-EndOfYear,12,12M,GRP4,NA,,1,"50,084.00",50084,50084,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,6,0.75,"14,567.00",10925,10925,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,3,1,"35,034.00",35034,35034,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,4,0.75,"14,027.00",10520,10520,8
+School Aide,SS,7/1/2004-6/13/2005,T21,10T,AIDE,A,3,0.75,"13,769.00",10326.75,9835.2,8
+School Aide,SS,2/28/2005-6/30/2005,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,3972.75,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,10327,8
+Instructor Voc,EA,9/1/2004-EndOfYear,T21,10T,TCH,A,12,1,"40,293.00",40293,40293,7.25
+Instructor Voc,EA,7/1/2004-6/30/2005,T21,10T,TCH,A,2,1,"34,695.00",35721,35721,7.25
+SUMMER DRIVER EDUCATION INSTRUCTOR,,7/1/2004-8/6/2004,,,,,,0,27,0,0,7.25
+SUMMER DRIVER EDUCATION INSTRUCTOR,,7/5/2004-8/18/2004,,,,,,0,27,0,0,7.25
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+SUMMER ACADEMIC,,7/6/2004-8/20/2004,,,,,,0,27,0,0,7.25
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
+Home Tutor,,9/1/2004-6/30/2005,,,,,,0,14,0,0,7.25
+School Aide,SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,2,0.75,"13,505.00",10129,10129,8
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T21,10T,TCH,A,3,1,"35,034.00",38169,38169,7.25
+On Line  Course Instructor,EA,7/1/2004-6/30/2005,,10T,GRP6,NA,,0,0,0,0,7.25
+Cleaner,SS,7/1/2004-EndOfYear,12,12M,LAB,N/A,1,1,"20,079.00",20079,20079,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,8,0.75,"15,155.00",11366,11366,8
+School Aide (02),SS,7/1/2004-EndOfYear,T26,10T,AIDE,A,1,0.75,"13,309.00",9982,9982,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,7,0.75,"14,859.00",11144,11144,8
+School Aide,SS,7/1/2004-EndOfYear,T21,10T,AIDE,A,2,0.75,"13,505.00",10129,10129,8
+School Aide,SS,9/1/2004-EndOfYear,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,9809,8
+On Line  Course Instructor,EA,7/1/2004-6/30/2005,,10T,GRP6,NA,,0,0,0,0,7.25
+Computer Serv Asst,SS,7/1/2004-EndOfYear,12,12M,CSA,N/A,8,1,"29,201.00",29201,29201,8
+SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
+SUMMER ACADEMIC/SALARIED,,7/6/2004-8/6/2004,SUMC,SUM3,,,,1,"2,907.66",2907.66,2907.66,7.25
+SUMMER ACADEMIC,,7/7/2004-8/20/2004,,,,,,0,34,0,0,7.25
+SUMMER ACADEMIC,,7/7/2004-8/20/2004,,,,,,0,34,0,0,7.25
+SUMMER ACADEMIC,,7/7/2004-8/20/2004,,,,,,0,34,0,0,7.25
+Psychologist Intern,,9/1/2004-6/30/2005,T21,10T,OTHR,NA,,1,"15,000.00",15000,15000,7.25
+Instructor Spec Ed,EA,7/1/2004-EndOfYear,T26,10T,TCH,A,2,1,"34,695.00",34695,34695,7.25
+Instructor Alt Suspe,EA,9/8/2004-6/30/2005,T21,10T,,,,0,22.8,0,0,7.25
+Instr Phys Ed,EA,9/1/2004-EndOfYear,T26,10T,TCH,A,4,1,"35,668.00",38632,38632,7.25
+School Aide,SS,9/1/2004-EndOfYear,T21,10T,AIDE,A,1,0.75,"13,309.00",9982,9982,8
+School Aide,SS,11/8/2004-EndOfYear,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,7601.95,8
+School Counselor,EA,10/26/2004-EndOfYear,T21,10T,GRP2,NA,,1,"38,743.00",38743,31769.28,7.25
+School Aide,SS,1/3/2005-EndOfYear,T21,10T,AIDE,A,3,0.75,"13,769.00",10326.75,6196.05,8
+Comp Systems Analyst,SS,11/29/2004-EndOfYear,12,12M,WEB,OFF,11,1,"53,262.00",53262,31546.9,8
+Case Mgr/Career Coun,EA,11/30/2004-6/30/2005,12,12M,GRP4,NA,,1,"36,000.00",36000,21184.38,8
+Staff Dev Trainer,NREP,1/4/2005-EndOfYear,12,12M,CORD,NA,,1,"68,500.00",68500,33722.88,8
+School Counselor (02),EA,1/31/2005-6/30/2005,T21,10T,GRP2,NA,,1,"38,743.00",38743,19565.22,7.25
+School Aide,SS,3/28/2005-6/30/2005,T21,10T,AIDE,A,0,0.75,"13,079.00",9809,3138.98,8
+School Aide (02),SS,3/14/2005-6/30/2005,T21,10T,AIDE,A,3,0.75,"13,769.00",10327,3665.96,8
+Instructor Spec Ed,EA,3/14/2005-6/30/2005,T21,10T,TCH,A,3,1,"35,034.00",41874,14865.27,7.25
+Physical Therapist,EA,5/16/2005-6/30/2005,T21,10T,TCH,B,97,0.8,"47,565.00",38052,5707.76,7.25
+215,Grand Total,"5,253,724.10",,,,,,,,,,
+Ver. 26.01.12.2430,,,,,,,,,,,,
