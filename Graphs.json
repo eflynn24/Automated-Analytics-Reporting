@@ -1,7 +1,7 @@
 {
-	"function": "plot_employee_data",
+	"function": "graph_generator",
 	"arguments": {
-	"x": "Job.Title",
-	"year": 2001,
-	"top_n": 15 }
+	"x": "variable_name",
+	"year": year,
+	"top_n": number_categories }
 }
