@@ -8,52 +8,37 @@ date: "2026-01-29"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Connect this into JSON files
-
-## This document shows how to use functions and apply it to data for various graphs
-
-## You can automatically extract the columns right from excel (category.year).... losing this functionality for now
-
 ```{r}
 
 library(tidyverse)
 library(jsonlite)
 
-## Lets test with one year for now -
-wincap <- read.csv("Employee_2001.csv")
+data <- read.csv("name.csv")
+years <- ## Set years
+json_data <- fromJSON("name.json")
 
-## This is the problem......
-
-## years <- 2001:2026 ## Set years
-
-## Employee.Info <- setNames(
-  ## lapply(years, function(y) {
-   ##  read.csv(paste0("Employee_", y, ".csv"))
- ##  }), years)
-
-json_data <- fromJSON("Graphs.json")
+data.year <- setNames(
+  lapply(years, function(y) {
+   read.csv(paste0("data_", y, ".csv"))
+ }), years)
 
 ```
 
-## Extract the column
 ```{r}
-
-Job.Title <- wincap$Job.Title.2001
+## Data frame
+Var.1 <- data$column
 variable_map <- list(
-  Job.Title = data.frame(Job.Title = Job.Title)  # ggplot needs a data frame
-)
+Var.1 = data.frame())
 
 ```
 
+```{r}
 
 ## Graph Generator Function
-```{r}
 
-## The column name in excel has to have this format (category.year)
-
-plot_employee_data <- function(data, top_n = 10, x_label = NULL, title_label = NULL) {
+graph_generator <- function(data, top_n = 10, x_label = NULL, title_label = NULL) {
   
-  col_name <- colnames(data)[1]  # get column name dynamically
+  col_name <- colnames(data)[1]
   
   count_df <- data %>%
     filter(!is.na(.data[[col_name]])) %>%
@@ -65,8 +50,8 @@ plot_employee_data <- function(data, top_n = 10, x_label = NULL, title_label = N
     coord_flip() +
     labs(
       x = ifelse(is.null(x_label), col_name, x_label),
-      y = "Number of Employees",
-      title = ifelse(is.null(title_label), paste("Number of Employees by", col_name), title_label)
+      y = "Number of Metric",
+      title = ifelse(is.null(title_label), paste("Number of Metric by", col_name), title_label)
     )
 }
 
@@ -75,7 +60,7 @@ plot_employee_data <- function(data, top_n = 10, x_label = NULL, title_label = N
 ```{r}
 
 function_map <- list(
-  plot_employee_data = plot_employee_data
+  graph_generator = graph_generator
 )
 
 func_name <- json_data[["function"]]
@@ -84,10 +69,8 @@ arg_name  <- json_data$arguments$x
 func <- function_map[[func_name]]
 arg  <- variable_map[[arg_name]]
 
-# Call the function
 result_plot <- do.call(func, list(data = arg))
 print(result_plot)
 
 ```
-
 
