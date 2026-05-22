@@ -3,7 +3,6 @@ title: "Graph Generator"
 output: pdf_document
 date: "2026-01-29"
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -25,16 +24,15 @@ data.year <- setNames(
 ```
 
 ```{r}
+
 ## Data frame
-Var.1 <- data$column
+first_variable <- data$column
 variable_map <- list(
-Var.1 = data.frame())
+first_variable = data.frame())
 
 ```
 
 ```{r}
-
-## Graph Generator Function
 
 graph_generator <- function(data, top_n = 10, x_label = NULL, title_label = NULL) {
   
@@ -56,7 +54,6 @@ graph_generator <- function(data, top_n = 10, x_label = NULL, title_label = NULL
 }
 
 ```
-
 ```{r}
 
 function_map <- list(
@@ -73,4 +70,3 @@ result_plot <- do.call(func, list(data = arg))
 print(result_plot)
 
 ```
-
