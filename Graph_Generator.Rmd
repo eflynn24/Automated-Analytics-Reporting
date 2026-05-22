@@ -26,9 +26,9 @@ data.year <- setNames(
 ```{r}
 
 ## Data frame
-first_variable <- data$column
+variable_name <- data$column
 variable_map <- list(
-first_variable = data.frame())
+variable_name = data.frame())
 
 ```
 
