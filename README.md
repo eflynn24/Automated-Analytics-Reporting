@@ -5,9 +5,8 @@ This R script generates charts dynamically based on parameters specified in a JS
 The primary purpose of this script is to automate graph creation without requiring changes to the R code itself. Users can modify the JSON configuration to select different variables and graph types.
 
 **Requirements**
-R Packages
 
-Install the required packages before running the script:
+Install the required R Packages before running the script:
 
 install.packages(c("tidyverse", "jsonlite"))
 
