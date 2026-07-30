@@ -9,23 +9,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 
+## Required packages
 library(tidyverse)
 library(jsonlite)
 
+## Load the data
 data <- read.csv("name.csv")
-years <- ## Set years
 json_data <- fromJSON("name.json")
 
-data.year <- setNames(
-  lapply(years, function(y) {
-   read.csv(paste0("data_", y, ".csv"))
- }), years)
+## Apply to multiple files
+data <- setNames(
+  lapply(function(y)) {
+  read.csv(paste0("data_", y, ".csv"))
+ }))
 
 ```
 
 ```{r}
 
-## Data frame
+## Create a data frame
 variable_name <- data$column
 variable_map <- list(
 variable_name = data.frame())
@@ -33,6 +35,8 @@ variable_name = data.frame())
 ```
 
 ```{r}
+
+                                      ## Graph Generator ##
 
 graph_generator <- function(data, top_n = 10, x_label = NULL, title_label = NULL) {
   
@@ -55,6 +59,8 @@ graph_generator <- function(data, top_n = 10, x_label = NULL, title_label = NULL
 
 ```
 ```{r}
+
+## Call the function
 
 function_map <- list(
   graph_generator = graph_generator
