@@ -15,12 +15,14 @@ CSV-based data input
 Reusable visualization workflows without modifying R source code
 Supports multiple graphing functions and visualization types
 
+<br>
 
 **Requirements**
 Install the required R Packages before running the script:
 
 install.packages(c("tidyverse", "jsonlite"))
 
+<br>
 
 **R Packages**
 tidyverse – Data manipulation and visualization
