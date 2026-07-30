@@ -5,8 +5,6 @@ The script dynamically loads and processes data, maps variables to data frames, 
 
 This approach simplifies and standardizes repetitive reporting workflows while making the visualization process more flexible, reusable, and scalable.
 
-<br>
-
 **Features**
 Automated chart and graph generation
 JSON-driven configuration for customizable visualizations
@@ -15,14 +13,10 @@ CSV-based data input
 Reusable visualization workflows without modifying R source code
 Supports multiple graphing functions and visualization types
 
-<br>
-
 **Requirements**
 Install the required R Packages before running the script:
 
 install.packages(c("tidyverse", "jsonlite"))
-
-<br>
 
 **R Packages**
 tidyverse – Data manipulation and visualization
